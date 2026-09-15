@@ -29,9 +29,9 @@
 
 ## ⛩️ Culture: Gestures when Greeting in Japan
 
-* **Bowing (お辞儀 - Ojigi):** In Japan, greetings are frequently exchanged while bowing. Depending on the situation and depth of feelings involved, the bow differs in the angle of bending at the waist and length of time for lowering the head.
-* **Family & Close Friends:** There is no need to bow between family, friends, and people you have a close relationship with.
-* **Physical Contact:** Touching the other person is avoided when greeting—there is no hugging or kissing, even with family and close friends.
+- **Bowing (お辞儀 - Ojigi):** In Japan, greetings are frequently exchanged while bowing. Depending on the situation and depth of feelings involved, the bow differs in the angle of bending at the waist and length of time for lowering the head.
+- **Family & Close Friends:** There is no need to bow between family, friends, and people you have a close relationship with.
+- **Physical Contact:** Touching the other person is avoided when greeting—there is no hugging or kissing, even with family and close friends.
 
 ---
 
@@ -71,13 +71,12 @@
 **Translation:** Ms. Mori is learning the art of the tea ceremony. The lesson will finish shortly.
 
 **Vocabulary Breakdown:**
-* **さどう (Sadoo):** Tea ceremony
-* **ならっています (Naratte imasu):** Learning / Is learning
-* **おけいこ (Okeiko):** Lesson / Practice
+- **さどう (Sadoo):** Tea ceremony
+- **ならっています (Naratte imasu):** Learning / Is learning
+- **おけいこ (Okeiko):** Lesson / Practice
 
 ---
 
 ## 📝 Study Log & Additional Notes
-> *Use this section to add new vocabulary, grammar points, or corrections as you progress through Lesson 1.*
 
-* **2026-XX-XX:** Started Lesson 1. Learned basic time-based greetings and cultural bowing etiquette.
+- **2026-09-16:** Started Lesson 1. Learned basic time-based greetings and cultural bowing etiquette.
