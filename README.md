@@ -46,16 +46,20 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 ## 📁 Repository Structure
 
+> *High-level overview. Individual image files and notes are stored inside their respective lesson folders.*
+
 ```text
 japanese-learning-journey/
 ├── README.md
 └── Marugoto-A1-1-Katsudoo-and-Rikai/
-    ├── images/
-    │   ├── lesson-01-notes-1.jpg
-    │   ├── lesson-01-notes-2.jpg
-    │   └── lesson-01-notes-3.jpg
-    └── Lesson-1-Hello.md
+    ├── images/                 <-- Scanned handwritten notes go here
+    └── Lesson-*.md             <-- One reference file per lesson
 ```
+
+**Conventions:**
+- One folder per curriculum module.
+- One Markdown file per lesson (`Lesson-{N}-{Topic}.md`).
+- Handwritten notes archived as images in the `images/` folder.
 
 ---
 
@@ -71,12 +75,11 @@ japanese-learning-journey/
 
 <!-- 
   ========================================================================
-  🛑 STOP! NEXT UPDATE INSTRUCTIONS:
-  When you completely finish Lesson 1, do the following:
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL LESSON 1 IS FINISHED):
   1. Change the 🚧 in the table above to ✅.
   2. Add a new row for Topic 2 when you start it.
   3. Update the "Progress Log" at the bottom of this file.
-  4. Update the "Status" badge at the very top to say "Phase 1, Lesson 2".
+  4. Update the "Current Status" in the Executive Summary above.
   ========================================================================
 -->
 
@@ -127,7 +130,7 @@ japanese-learning-journey/
 | Date | Milestone |
 | --- | --- |
 | 2026 | Repository initialized, methodology defined |
-| 2026 | **Lesson 1 started:** Uploaded 3 pages of handwritten notes and built the core vocabulary/grammar reference file. |
+| 2026 | **Lesson 1 started:** Uploaded handwritten notes and built the core vocabulary/grammar reference file. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
