@@ -5,8 +5,7 @@
 **A structured, version-controlled learning portfolio documenting my path from zero to Japanese proficiency.**
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](#-project-status)
-[![Level](https://img.shields.io/badge/CEFR-A1-blue)](#-learning-roadmap)
-[![JLPT](https://img.shields.io/badge/JLPT-N5-orange)](#-learning-roadmap)
+[![Target](https://img.shields.io/badge/target-CEFR%20A1%20%2F%20JLPT%20N5-blue)](#-learning-roadmap)
 [![Curriculum](https://img.shields.io/badge/curriculum-JF%20Minato-red)](https://minato-jf.jp/)
 [![Made with Markdown](https://img.shields.io/badge/docs-Markdown-000000?logo=markdown)](https://www.markdownguide.org/)
 
@@ -45,17 +44,6 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 ---
 
-## 🎯 Current Objectives
-
-- [ ] Build fluency with Hiragana & Katakana
-- [ ] Complete **Marugoto A1-1: Topic 1 (にほんご / Japanese)**
-- [ ] Build a vocabulary & grammar reference archive
-- [ ] Maintain consistent handwritten logs alongside digital summaries
-
-> 🚧 **All objectives in progress** — just getting started.
-
----
-
 ## 📁 Repository Structure
 
 ```text
@@ -63,16 +51,11 @@ japanese-learning-journey/
 ├── README.md
 └── Marugoto-A1-1-Katsudoo-and-Rikai/
     ├── images/
-    │   └── lesson-01-notes.jpg
+    │   ├── lesson-01-notes-1.jpg
+    │   ├── lesson-01-notes-2.jpg
+    │   └── lesson-01-notes-3.jpg
     └── Lesson-1-Hello.md
 ```
-
-**Design principles:**
-
-- One folder per curriculum module
-- One Markdown file per lesson
-- Handwritten notes archived as images alongside digital summaries
-- Naming convention: `Lesson-{N}-{Topic}.md`
 
 ---
 
@@ -85,6 +68,17 @@ japanese-learning-journey/
 | **Topic 1** — にほんご | Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
+
+<!-- 
+  ========================================================================
+  🛑 STOP! NEXT UPDATE INSTRUCTIONS:
+  When you completely finish Lesson 1, do the following:
+  1. Change the 🚧 in the table above to ✅.
+  2. Add a new row for Topic 2 when you start it.
+  3. Update the "Progress Log" at the bottom of this file.
+  4. Update the "Status" badge at the very top to say "Phase 1, Lesson 2".
+  ========================================================================
+-->
 
 ---
 
@@ -133,7 +127,7 @@ japanese-learning-journey/
 | Date | Milestone |
 | --- | --- |
 | 2026 | Repository initialized, methodology defined |
-| 2026 | Marugoto A1-1 — Lesson 1 started |
+| 2026 | **Lesson 1 started:** Uploaded 3 pages of handwritten notes and built the core vocabulary/grammar reference file. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
