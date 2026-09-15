@@ -50,10 +50,12 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 ```text
 japanese-learning-journey/
+├── LICENSE
 ├── README.md
-└── Marugoto-A1-1-Katsudoo-and-Rikai/
-    ├── images/                 <-- Scanned handwritten notes go here
-    └── Lesson-*.md             <-- One reference file per lesson
+└── Topic-1-Japanese/
+    └── Lesson-1-Hello/
+        ├── Lesson-1-Hello.md   <-- The lesson reference file
+        └── images/             <-- Scanned notes for this lesson
 ```
 
 **Conventions:**
