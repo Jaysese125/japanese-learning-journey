@@ -40,19 +40,19 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 1 in progress* |
+| **Current Status** | 🟢 **Active** — *Topic 1, Lesson 1* |
 | **Started** | 2026 |
 
 ---
 
 ## 🎯 Current Objectives
 
-- [x] Master foundational scripts (Hiragana & Katakana)
+- [ ] Build fluency with Hiragana & Katakana
 - [ ] Complete **Marugoto A1-1: Topic 1 (にほんご / Japanese)**
-- [ ] Build a comprehensive vocabulary & grammar reference archive
+- [ ] Build a vocabulary & grammar reference archive
 - [ ] Maintain consistent handwritten logs alongside digital summaries
 
-> ✅ **Completed:** 1 / 4 &nbsp;&nbsp; • &nbsp;&nbsp; 🚧 **In progress:** 3 / 4
+> 🚧 **All objectives in progress** — just getting started.
 
 ---
 
@@ -82,9 +82,7 @@ japanese-learning-journey/
 
 | Module / Topic | Lesson | Key Competencies | Status |
 | --- | --- | --- | :---: |
-| **Topic 1** — にほんご | Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette | ✅ |
-| **Topic 2** — かぞく | — | Family vocabulary, introductions | ⏳ |
-| **Topic 3** — たべもの | — | Food, ordering, preferences | ⏳ |
+| **Topic 1** — にほんご | Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
@@ -135,8 +133,7 @@ japanese-learning-journey/
 | Date | Milestone |
 | --- | --- |
 | 2026 | Repository initialized, methodology defined |
-| 2026 | Hiragana & Katakana mastered |
-| 2026 | Marugoto A1-1 — Lesson 1 completed |
+| 2026 | Marugoto A1-1 — Lesson 1 started |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
