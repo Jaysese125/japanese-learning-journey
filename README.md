@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 1, Lesson 1* |
+| **Current Status** | 🟢 **Active** — *Topic 1, Lesson 2* |
 | **Started** | 2026 |
 
 ---
@@ -48,15 +48,16 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 > *High-level overview. Individual image files and notes are stored inside their respective lesson folders.*
 
-```text
-japanese-learning-journey/
-├── LICENSE
-├── README.md
-└── Topic-1-Japanese/
-    └── Lesson-1-Hello/
-        ├── Lesson-1-Hello.md   <-- The lesson reference file
-        └── images/             <-- Scanned notes for this lesson
-```
+    japanese-learning-journey/
+    ├── LICENSE
+    ├── README.md
+    └── Topic-1-Japanese/
+        ├── Lesson-1-Hello/
+        │   ├── Lesson-1-Hello.md
+        │   └── images/
+        └── Lesson-2-.../
+            ├── Lesson-2-....md
+            └── images/
 
 **Conventions:**
 - One folder per curriculum module.
@@ -71,13 +72,13 @@ japanese-learning-journey/
 
 | Module / Topic | Lesson | Key Competencies | Status |
 | --- | --- | --- | :---: |
-| **Topic 1** — にほんご | Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette | 🚧 |
+| **Topic 1** — にほんご | Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette, uses of Sumimasen | ✅ |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL LESSON 1 IS FINISHED):
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL LESSON 2 IS FINISHED):
   1. Change the 🚧 in the table above to ✅.
   2. Add a new row for Topic 2 when you start it.
   3. Update the "Progress Log" at the bottom of this file.
@@ -89,18 +90,16 @@ japanese-learning-journey/
 
 ## 🗺️ Learning Roadmap
 
-```text
-┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
-│   PHASE 1         │     │   PHASE 2         │     │   PHASE 3         │
-│   A1  /  N5       │ ──► │   A2  /  N4       │ ──► │   B1  /  N3       │
-├───────────────────┤     ├───────────────────┤     ├───────────────────┤
-│ • Marugoto A1     │     │ • Marugoto A2     │     │ • Quartet I       │
-│ • Kana scripts    │     │ • Basic grammar   │     │ • Intermediate    │
-│ • Daily phrases   │     │ • Sentence logic  │     │   reading         │
-│                   │     │                   │     │ • Native media    │
-└───────────────────┘     └───────────────────┘     └───────────────────┘
-      ▲ CURRENT
-```
+    ┌───────────────────┐     ┌───────────────────┐     ┌───────────────────┐
+    │   PHASE 1         │     │   PHASE 2         │     │   PHASE 3         │
+    │   A1  /  N5       │ ──► │   A2  /  N4       │ ──► │   B1  /  N3       │
+    ├───────────────────┤     ├───────────────────┤     ├───────────────────┤
+    │ • Marugoto A1     │     │ • Marugoto A2     │     │ • Quartet I       │
+    │ • Kana scripts    │     │ • Basic grammar   │     │ • Intermediate    │
+    │ • Daily phrases   │     │ • Sentence logic  │     │   reading         │
+    │                   │     │                   │     │ • Native media    │
+    └───────────────────┘     └───────────────────┘     └───────────────────┘
+          ▲ CURRENT
 
 ---
 
@@ -133,6 +132,7 @@ japanese-learning-journey/
 | --- | --- |
 | 2026 | Repository initialized, methodology defined |
 | 2026 | **Lesson 1 started:** Uploaded handwritten notes and built the core vocabulary/grammar reference file. |
+| 2026-09-19 | **Lesson 1 completed:** Mastered greetings, bowing etiquette, and the multiple uses of すみません. Moving to Lesson 2. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
