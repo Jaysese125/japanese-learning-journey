@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 1, Lesson 2* |
+| **Current Status** | 🟢 **Active** — *Topic 1, Rikai Lesson 1* |
 | **Started** | 2026 |
 
 ---
@@ -52,17 +52,23 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
     ├── LICENSE
     ├── README.md
     └── Topic-1-Japanese/
-        ├── Lesson-1-Hello/
-        │   ├── Lesson-1-Hello.md
-        │   └── images/
-        └── Lesson-2-.../
-            ├── Lesson-2-....md
-            └── images/
+        ├── Katsudoo/
+        │   ├── Lesson-1-Hello/
+        │   │   ├── Lesson-1-Hello.md
+        │   │   └── images/
+        │   └── Lesson-2-Would-you-say-that-again/
+        │       ├── Lesson-2-Would-you-say-that-again.md
+        │       └── images/
+        └── Rikai/
+            └── Lesson-1-Hiragana/
+                ├── Lesson-1-Hiragana.md
+                └── images/
 
 **Conventions:**
-- One folder per curriculum module.
-- One Markdown file per lesson (`Lesson-{N}-{Topic}.md`).
-- Handwritten notes archived as images in the `images/` folder.
+- One folder per curriculum module (`Topic-X-Japanese`).
+- Inside each topic, separate folders for `Katsudoo` and `Rikai`.
+- One Markdown file per lesson.
+- Handwritten notes archived as images in the lesson's `images/` folder.
 
 ---
 
@@ -72,15 +78,17 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 | Module / Topic | Lesson | Key Competencies | Status |
 | --- | --- | --- | :---: |
-| **Topic 1** — にほんご | Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette, uses of Sumimasen | ✅ |
+| **Topic 1** — にほんご | Katsudoo Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette, uses of Sumimasen | ✅ |
+| **Topic 1** — にほんご | Katsudoo Lesson 2: もういちど おねがいします | Introductions, names, occupations *(Folder created)* | ⏳ |
+| **Topic 1** — にほんご | Rikai Lesson 1: ひらがな | Japanese writing systems, Hiragana chart | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL LESSON 2 IS FINISHED):
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 1 IS FINISHED):
   1. Change the 🚧 in the table above to ✅.
-  2. Add a new row for Topic 2 when you start it.
+  2. Change the ⏳ for Katsudoo Lesson 2 to 🚧 when you start it.
   3. Update the "Progress Log" at the bottom of this file.
   4. Update the "Current Status" in the Executive Summary above.
   ========================================================================
@@ -131,8 +139,10 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | Date | Milestone |
 | --- | --- |
 | 2026 | Repository initialized, methodology defined |
-| 2026 | **Lesson 1 started:** Uploaded handwritten notes and built the core vocabulary/grammar reference file. |
-| 2026-09-19 | **Lesson 1 completed:** Mastered greetings, bowing etiquette, and the multiple uses of すみません. Moving to Lesson 2. |
+| 2026-09-16 | **Katsudoo Lesson 1 started:** Uploaded handwritten notes and built the core vocabulary/grammar reference file. |
+| 2026-09-19 | **Katsudoo Lesson 1 completed:** Mastered greetings, bowing etiquette, and the multiple uses of すみません. |
+| 2026-09-20 | Restructured repository to separate `Katsudoo` and `Rikai` folders under `Topic-1-Japanese`. |
+| 2026-09-20 | **Rikai Lesson 1 started:** Began studying the Hiragana chart. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
