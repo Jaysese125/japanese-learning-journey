@@ -77,9 +77,9 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 ### 🟢 Marugoto A1-1 — *Katsudoo & Rikai*
 
 | Module / Topic | Lesson | Key Competencies | Status |
-| --- | --- | --- | :---: |
+| --- | --- | :--- | :---: |
 | **Topic 1** — にほんご | Katsudoo Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette, uses of Sumimasen | ✅ |
-| **Topic 1** — にほんご | Katsudoo Lesson 2: もういちど おねがいします | Classroom instructions, asking for clarification | 🚧 |
+| **Topic 1** — にほんご | Katsudoo Lesson 2: もういちど おねがいします | Classroom instructions, Katakana loanwords, honorifics | 🚧 |
 | **Topic 1** — にほんご | Rikai Lesson 1: ひらがな | Japanese writing systems, Hiragana chart, vocabulary practice | ✅ |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
@@ -144,6 +144,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-09-20 | Restructured repository to separate `Katsudoo` and `Rikai` folders under `Topic-1-Japanese`. |
 | 2026-09-20 | **Rikai Lesson 1 started:** Began studying the Hiragana chart. |
 | 2026-09-22 | **Rikai Lesson 1 completed:** Mastered Hiragana basics and vocabulary. Started Katsudoo Lesson 2. |
+| 2026-09-23 | **Katsudoo Lesson 2 in progress:** Learned how to contact the teacher, Katakana long vowels, country names, and Japanese honorifics. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
