@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 1, Katsudoo Lesson 2* |
+| **Current Status** | 🟢 **Active** — *Topic 1, Katsudoo L2 & Rikai L2* |
 | **Started** | 2026 |
 
 ---
@@ -60,8 +60,11 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
         │       ├── Lesson-2-Would-you-say-that-again.md
         │       └── images/
         └── Rikai/
-            └── Lesson-1-Hiragana/
-                ├── Lesson-1-Hiragana.md
+            ├── Lesson-1-Hiragana/
+            │   ├── Lesson-1-Hiragana.md
+            │   └── images/
+            └── Lesson-2-Katakana/
+                ├── Lesson-2-Katakana.md
                 └── images/
 
 **Conventions:**
@@ -81,12 +84,13 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 1** — にほんご | Katsudoo Lesson 1: こんにちは | Time-based greetings, workplace farewells, bowing etiquette, uses of Sumimasen | ✅ |
 | **Topic 1** — にほんご | Katsudoo Lesson 2: もういちど おねがいします | Classroom instructions, Katakana loanwords, honorifics | 🚧 |
 | **Topic 1** — にほんご | Rikai Lesson 1: ひらがな | Japanese writing systems, Hiragana chart, vocabulary practice | ✅ |
+| **Topic 1** — にほんご | Rikai Lesson 2: カタカナ | Katakana chart, stroke order, long vowels, honorifics | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL KATSUDOO LESSON 2 IS FINISHED):
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL KATSUDOO L2 & RIKAI L2 ARE FINISHED):
   1. Change the 🚧 in the table above to ✅.
   2. Add a new row when you start the next lesson.
   3. Update the "Progress Log" at the bottom of this file.
@@ -145,6 +149,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-09-20 | **Rikai Lesson 1 started:** Began studying the Hiragana chart. |
 | 2026-09-22 | **Rikai Lesson 1 completed:** Mastered Hiragana basics and vocabulary. Started Katsudoo Lesson 2. |
 | 2026-09-23 | **Katsudoo Lesson 2 in progress:** Learned how to contact the teacher, Katakana long vowels, country names, and Japanese honorifics. |
+| 2026-09-24 | **Rikai Lesson 2 started:** Began studying the Katakana chart and stroke order. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
