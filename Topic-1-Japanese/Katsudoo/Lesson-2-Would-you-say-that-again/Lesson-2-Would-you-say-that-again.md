@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 1 — にほんご (Japanese)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -125,6 +125,7 @@ How do you address other people? How do other people address you? This changes d
 
 - **2026-09-22:** Started Katsudoo Lesson 2. Learned classroom instructions and how to ask for clarification when I don't understand.
 - **2026-09-23:** Continued Katsudoo Lesson 2. Learned how to contact the teacher, write long vowels in Katakana, spell country/person names, and use Japanese honorifics.
+- **2026-09-24:** Completed Katsudoo Lesson 2.
 
 ---
 
