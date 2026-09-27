@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 2 — わたし (Watashi - Myself)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -117,6 +117,7 @@ At an international exchange party, introduce yourself to people you have just m
 ## 📝 Study Log & Additional Notes
 
 - **2026-09-26:** Started Topic 2 (Katsudoo Lesson 3). Learned how to introduce myself, ask where people are from, ask what languages they speak, and ask about their jobs.
+- **2026-09-28:** Completed Katsudoo Lesson 3.
 
 ---
 
