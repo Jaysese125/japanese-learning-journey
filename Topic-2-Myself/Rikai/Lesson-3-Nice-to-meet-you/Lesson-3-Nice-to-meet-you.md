@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 2 — わたし (Watashi - Myself)
 **Mode:** りかい (Rikai)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -46,6 +46,7 @@
 | エジプト (Ejiputo — Egypt) | → アラビアご (Arabia-go — Arabic) |
 | かんこく (Kankoku — Korea) | → かんこくご (Kankoku-go — Korean) |
 | オーストラリア (Oosutoraria — Australia) | → えいご (Eego — English) |
+| フランス (Furansu — France) | → フランスご (Furansu-go — French) |
 
 ---
 
@@ -63,66 +64,13 @@ In Japanese, particles are added **after nouns** appearing in a sentence. In gen
 | Particle | Pronunciation | Function |
 | :---: | :---: | :--- |
 | **は** | *wa* | Indicates the **topic and subject** of the sentence. |
-| **で** | *de* | Indicates the **place** where the activity or action is carried out. In this sentence, it shows where the studying takes place. |
-| **を** | *o* | Indicates the **direct object**. In this sentence, it shows what is studied. |
+| **で** | *de* | Indicates the **place** where the activity or action is carried out. |
+| **を** | *o* | Indicates the **direct object**. |
+| **が** | *ga* | Marks the **subject** (used with できます). |
+| **も** | *mo* | Indicates **"also / too"** — replaces は or が. |
 
 ---
 
 ## 🏗️ Sentence Structure
 
 ### Core Pattern
-N1 は N2 です。
-
-### Variations
-
-| Form | Pattern | Meaning |
-| :--- | :--- | :--- |
-| **Affirmative** | N1 は N2 です。 | N1 is N2. |
-| **Negative** | N1 は N2 じゃないです。 | N1 is not N2. |
-| **Interrogative** | N1 は N2 ですか。 | Is N1 N2? |
-| **Question Word** | N1 は なん ですか。 | What is N1? |
-
-### Examples
-
-| # | Japanese | Romaji | English |
-| :---: | :--- | :--- | :--- |
-| ① | わたしは がくせいです。 | *Watashi wa gakusee desu.* | I'm a student. |
-| ② | わたしは キム です。 | *Watashi wa Kimu desu.* | I'm Kim. |
-| ③ | ヤンさんは マレーシアじん です。 | *Yan-san wa Mareeshia-jin desu.* | Ms. Yan is Malaysian. |
-| ④ | わたしは かいしゃいん じゃないです。 | *Watashi wa kaishain ja nai desu.* | I'm not an office worker. |
-| ⑤ | A: キムさんは かんこくじん ですか。 | *Kimu-san wa Kankoku-jin desu ka.* | Ms. Kim, are you Korean? |
-|   | B: はい、かんこくじん です。 | *Hai, Kankoku-jin desu.* | Yes, I am. |
-| ⑥ | A: キムラさんは がくせい ですか。 | *Kimura-san wa gakusee desu ka.* | Mr. Kimura, are you a student? |
-|   | B: いいえ、がくせい じゃないです。かいしゃいん です。 | *Iie, gakusee ja nai desu. Kaishain desu.* | No, I'm not a student. I'm an office worker. |
-| ⑦ | A: おしごとは なんですか。 | *Oshigoto wa nan desu ka.* | What's your job? |
-|   | B: エンジニアです。 | *Enjinia desu.* | I'm an engineer. |
-
----
-
-## 📝 Commentary & Key Notes
-
-**A.** 「N です」is **affirmative**, 「N じゃないです」is **negative**, and 「N ですか」is **interrogative**.
-
-**B.** The 「は」in 「N1 は」is pronounced **"wa"** (not "ha").
-
-**C.** In cases when it is understood what N1 is, 「N1 は」is **sometimes omitted**. (See examples ⑤, ⑥, ⑦.)
-
----
-
-## 📝 Study Log & Additional Notes
-
-- **2026-09-28:** Started Rikai Lesson 3. Learned how to read business cards, country/language pairs, the three core particles (は, で, を), and basic sentence structure (N1 は N2 です).
-
----
-
-## 📸 Handwritten Notes (Appendix)
-> *Scanned pages from my physical study notebook.*
-
-**Page 1 — Business Card & Language Pairs**
-![Rikai Notes Page 1](images/rikai-lesson-3-notes-1.jpg)
-
-**Page 2 — Particles & Grammar Intro**
-![Rikai Notes Page 2](images/rikai-lesson-3-notes-2.jpg)
-
-**Page 3 — Sentence Structure & Examples**
-![Rikai Notes Page 3](images/rikai-lesson-3-notes-3.jpg)

@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 2, Rikai Lesson 3* |
+| **Current Status** | 🟢 **Active** — *Topic 2 complete* |
 | **Started** | 2026 |
 
 ---
@@ -83,17 +83,16 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 1** — にほんご | Rikai Lesson 1: ひらがな | Japanese writing systems, Hiragana chart, vocabulary practice | ✅ |
 | **Topic 1** — にほんご | Rikai Lesson 2: カタカナ | Katakana chart, stroke order, long vowels, honorifics | ✅ |
 | **Topic 2** — わたし | Katsudoo Lesson 3: どうぞ よろしく | Self-introduction, countries, languages, jobs | ✅ |
-| **Topic 2** — わたし | Rikai Lesson 3: どうぞ よろしく | Particles (は, で, を), sentence structure (N1 は N2 です) | 🚧 |
+| **Topic 2** — わたし | Rikai Lesson 3: どうぞ よろしく | Particles (は, で, を, が, も), sentence structure, expressing ability | ✅ |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 3 IS FINISHED):
-  1. Change the 🚧 in the table above to ✅.
-  2. Add a new row when you start the next lesson.
-  3. Update the "Progress Log" at the bottom of this file.
-  4. Update the "Current Status" in the Executive Summary above.
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL YOU START TOPIC 3):
+  1. Add a new row when you start the next lesson.
+  2. Update the "Progress Log" at the bottom of this file.
+  3. Update the "Current Status" in the Executive Summary above.
   ========================================================================
 -->
 
@@ -141,14 +140,14 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 | Date | Milestone |
 | --- | --- |
-| 2026 | Repository initialized, methodology defined |
 | 2026-09-16 | **Katsudoo Lesson 1 started:** Uploaded handwritten notes and built the core vocabulary/grammar reference file. |
 | 2026-09-19 | **Katsudoo Lesson 1 completed:** Mastered greetings, bowing etiquette, and the multiple uses of すみません. |
 | 2026-09-20 | Restructured repository to separate `Katsudoo` and `Rikai` folders under `Topic-1-Japanese`. |
 | 2026-09-22 | **Rikai Lesson 1 completed:** Mastered Hiragana basics and vocabulary. |
 | 2026-09-24 | **Katsudoo Lesson 2 completed.** **Rikai Lesson 2 started:** Began studying the Katakana chart and stroke order. |
 | 2026-09-26 | **Topic 2 started:** Began Katsudoo Lesson 3. Learned self-introductions, asking about origin/languages, and occupations. |
-| 2026-09-28 | **Katsudoo Lesson 3 completed.** **Rikai Lesson 3 started:** Learning particles (は, で, を) and sentence structure (N1 は N2 です). |
+| 2026-09-28 | **Katsudoo Lesson 3 completed.** **Rikai Lesson 3 started:** Learning particles (は, で, を) and sentence structure. |
+| 2026-09-30 | **Rikai Lesson 3 completed.** Mastered ～が できます (expressing ability) and the particle も (also/too). **Topic 2 complete!** |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
