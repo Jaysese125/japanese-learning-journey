@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 2, Katsudoo Lesson 4* |
+| **Current Status** | 🟢 **Active** — *Topic 2, Rikai Lesson 4* |
 | **Started** | 2026 |
 
 ---
@@ -63,7 +63,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
         │   ├── Lesson-3-Nice-to-meet-you/
         │   └── Lesson-4-There-are-three-people-in-my-family/
         └── Rikai/
-            └── Lesson-3-Nice-to-meet-you/
+            ├── Lesson-3-Nice-to-meet-you/
+            └── Lesson-4-There-are-three-people-in-my-family/
 
 **Conventions:**
 - One folder per curriculum module (`Topic-X-...`).
@@ -85,13 +86,14 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 1** — にほんご | Rikai Lesson 2: カタカナ | Katakana chart, stroke order, long vowels, honorifics | ✅ |
 | **Topic 2** — わたし | Katsudoo Lesson 3: どうぞ よろしく | Self-introduction, countries, languages, jobs | ✅ |
 | **Topic 2** — わたし | Rikai Lesson 3: どうぞ よろしく | Particles (は, で, を, が, も), sentence structure, expressing ability | ✅ |
-| **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | 🚧 |
+| **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | ✅ |
+| **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Full family tree, own vs. others' vocab, pets, referring to people | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL KATSUDOO LESSON 4 IS FINISHED):
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 4 IS FINISHED):
   1. Change the 🚧 in the table above to ✅.
   2. Add a new row when you start the next lesson.
   3. Update the "Progress Log" at the bottom of this file.
@@ -143,7 +145,6 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 | Date | Milestone |
 | --- | --- |
-| 2026 | Repository initialized, methodology defined |
 | 2026-09-16 | **Katsudoo Lesson 1 started:** Uploaded handwritten notes and built the core vocabulary/grammar reference file. |
 | 2026-09-19 | **Katsudoo Lesson 1 completed:** Mastered greetings, bowing etiquette, and the multiple uses of すみません. |
 | 2026-09-20 | Restructured repository to separate `Katsudoo` and `Rikai` folders under `Topic-1-Japanese`. |
@@ -153,6 +154,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-09-28 | **Katsudoo Lesson 3 completed.** **Rikai Lesson 3 started:** Learning particles (は, で, を) and sentence structure. |
 | 2026-09-30 | **Rikai Lesson 3 completed.** Mastered ～が できます (expressing ability) and the particle も (also/too). |
 | 2026-10-01 | **Katsudoo Lesson 4 started:** Learning family vocabulary, counting people, and talking about family members. |
+| 2026-10-03 | **Katsudoo Lesson 4 completed.** **Rikai Lesson 4 started:** Learning the full family tree, pet vocabulary, and how to refer to people appropriately. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 

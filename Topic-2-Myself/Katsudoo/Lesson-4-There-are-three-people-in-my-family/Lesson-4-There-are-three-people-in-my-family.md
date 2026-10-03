@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 2 — わたし (Watashi - Myself)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -171,6 +171,7 @@ The number of people is indicated by **"(number) にん (nin)"**.
 
 - **2026-10-01:** Started Katsudoo Lesson 4. Learned family vocabulary (own family vs. others), how to count people (hitori, futari, san-nin...), and how to talk about family members and their jobs.
 - **2026-10-02:** Continued Katsudoo Lesson 4. Learned how to ask about age (おいくつですか), residence (どこに すんでいますか), and jobs. Studied the difference between own-family and others'-family vocabulary, plus the full family tree with both word sets.
+- **2026-10-03:** Completed Katsudoo Lesson 4.
 
 ---
 
