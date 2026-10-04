@@ -87,7 +87,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 2** — わたし | Katsudoo Lesson 3: どうぞ よろしく | Self-introduction, countries, languages, jobs | ✅ |
 | **Topic 2** — わたし | Rikai Lesson 3: どうぞ よろしく | Particles (は, で, を, が, も), sentence structure, expressing ability | ✅ |
 | **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | ✅ |
-| **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Full family tree, own vs. others' vocab, pets, referring to people | 🚧 |
+| **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Family tree, pets, particles (と, に, の), living places | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
@@ -155,6 +155,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-09-30 | **Rikai Lesson 3 completed.** Mastered ～が できます (expressing ability) and the particle も (also/too). |
 | 2026-10-01 | **Katsudoo Lesson 4 started:** Learning family vocabulary, counting people, and talking about family members. |
 | 2026-10-03 | **Katsudoo Lesson 4 completed.** **Rikai Lesson 4 started:** Learning the full family tree, pet vocabulary, and how to refer to people appropriately. |
+| 2026-10-04 | **Rikai Lesson 4 continued:** Learned particles と, に (living in), and の. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 

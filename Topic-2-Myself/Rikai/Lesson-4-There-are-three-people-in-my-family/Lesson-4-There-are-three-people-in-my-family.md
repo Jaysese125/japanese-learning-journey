@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Can-Do Objective
-**Can-do:** Read and write family vocabulary, count people, and refer to people appropriately.
+**Can-do:** Read and write family vocabulary, count people, and use essential particles to describe family.
 **Goal:** かぞくの ことを よみます (Read about family)
 
 ---
@@ -17,9 +17,9 @@
 
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
-| かぞくは ちちと ははと わたしです。 | *Kazoku wa chichi to haha to watashi desu.* | My family is my father, my mother, and me. |
-| あねは おおさかに すんでいます。 | *Ane wa Oosaka ni sunde imasu.* | My older sister lives in Osaka. |
-| あにの こどもは よんさいです。 | *Ani no kodomo wa yon-sai desu.* | My older brother's child is 4 years old. |
+| わたしの かぞくは さんにんです。 | *Watashi no kazoku wa san-nin desu.* | There are three people in my family. |
+| ちちと ははと わたしです。 | *Chichi to haha to watashi desu.* | My father, my mother, and me. |
+| わたしたちは おおさかに すんでいます。 | *Watashitachi wa Oosaka ni sunde imasu.* | We live in Osaka. |
 
 ---
 
@@ -75,6 +75,97 @@
 
 ---
 
+## 🔗 Grammar: Connecting Nouns with と (to)
+
+### Basic Sentence
+**かぞくは ちちと ははと わたしです。**
+*Kazoku wa chichi to haha to watashi desu.*
+**My family is my father, my mother, and me.**
+
+### Use
+「と」is used for **connecting nouns**.
+
+### Structure
+N1 と N2
+
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | わたしの かぞくは ふたりです。つまと わたしです。 | *Watashi no kazoku wa futari desu. Tsuma to watashi desu.* | There are two people in my family. My wife and me. |
+| ② | わたしの かぞくは よにんです。おっとと わたしと こども ふたりです。 | *Watashi no kazoku wa yo-nin desu. Otto to watashi to kodomo futari desu.* | There are four people in my family. My husband, me, and our two children. |
+
+### Commentary
+Nouns combined with 「と」can be used as a **single noun** in the sentence.
+
+---
+
+## 🏠 Grammar: に すんでいます (ni sunde imasu)
+
+### Basic Sentence
+**あねは おおさかに すんでいます。**
+*Ane wa Oosaka ni sunde imasu.*
+**My sister lives in Osaka.**
+
+### Use
+Used when **saying where one lives**.
+
+### Structure
+N1 (person) は N2 (place) に すんでいます。
+どこ に すんでいますか。
+
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | あには ほっかいどうに すんでいます。 | *Ani wa Hokkaidoo ni sunde imasu.* | My brother lives in Hokkaido. |
+| ② | A: どこに すんでいますか。 | *A: Doko ni sunde imasu ka.* | A: Where do you live? |
+|   | B: とうきょうに すんでいます。 | *B: Tookyoo ni sunde imasu.* | B: I live in Tokyo. |
+
+### Commentary
+「すんでいます」is used with 「に」to show that N2 is the **place where someone lives**.
+
+### Places Vocabulary
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| とうきょう | *Tookyoo* | Tokyo |
+| ほっかいどう | *Hokkaidoo* | Hokkaido |
+| おおさか | *Oosaka* | Osaka |
+| ひろしま | *Hiroshima* | Hiroshima |
+| おきなわ | *Okinawa* | Okinawa |
+
+---
+
+## 🔑 Grammar: Particle の (no)
+
+### Basic Sentence
+**あねの こどもは 2さいです。**
+*Ane no kodomo wa ni-sai desu.*
+**My sister's child is two years old.**
+
+### Use
+Used with multiple nouns when talking about **ownership or affiliation**.
+
+### Structure
+N1 の N2
+
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | わたしの かぞくは よにんです。 | *Watashi no kazoku wa yo-nin desu.* | My family has four members. |
+| ② | あにの こどもは さんさいです。 | *Ani no kodomo wa san-sai desu.* | My brother's child is three years old. |
+| ③ | A: この ひとは だれですか。 | *A: Kono hito wa dare desu ka.* | A: Who is this person? |
+|   | B: あねの おっとです。 | *B: Ane no otto desu.* | B: He's my sister's husband. |
+
+### Commentary
+「N1 の」**modifies** N2.
+
+---
+
 ## 🐾 Pets (ペット)
 
 | Japanese | Romaji | English |
@@ -119,6 +210,7 @@ When talking about a person whose name you do not know, use:
 ## 📝 Study Log & Additional Notes
 
 - **2026-10-03:** Started Rikai Lesson 4. Learned the full family tree (own vs. someone else's vocabulary), pet vocabulary, and how to refer to people by gender and age appropriately.
+- **2026-10-04:** Continued Rikai Lesson 4. Learned the particle と (connecting nouns), に すんでいます (living in a place), and the particle の (possession/modification).
 
 ---
 
@@ -133,3 +225,12 @@ When talking about a person whose name you do not know, use:
 
 **Page 3 — Pets & Referring to People**
 ![Rikai Notes Page 3](images/rikai-lesson-4-notes-3.jpg)
+
+**Page 4 — Particle と (Connecting Nouns)**
+![Rikai Notes Page 4](images/rikai-lesson-4-notes-4.jpg)
+
+**Page 5 — に すんでいます (Living In)**
+![Rikai Notes Page 5](images/rikai-lesson-4-notes-5.jpg)
+
+**Page 6 — Particle の (Possession)**
+![Rikai Notes Page 6](images/rikai-lesson-4-notes-6.jpg)
