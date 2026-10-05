@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 2 — わたし (Watashi - Myself)
 **Mode:** りかい (Rikai)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -166,6 +166,38 @@ N1 の N2
 
 ---
 
+## 📝 Practice: Family Composition Sentences
+
+### Example 1
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| わたしの かぞくは よにんです。 | *Watashi no kazoku wa yo-nin desu.* | There are four people in my family. |
+| つまと ははと わたしと こどもです。 | *Tsuma to haha to watashi to kodomo desu.* | My wife, my mother, me, and my child. |
+| わたしたちは とうきょうに すんでいます。 | *Watashitachi wa Tookyoo ni sunde imasu.* | We live in Tokyo. |
+
+### Example 2
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| わたしの かぞくは よにんです。 | *Watashi no kazoku wa yo-nin desu.* | There are four people in my family. |
+| おっとと わたしと こども ふたりです。 | *Otto to watashi to kodomo futari desu.* | My husband, me, and our two children. |
+| わたしたちは おおさかに すんでいます。 | *Watashitachi wa Oosaka ni sunde imasu.* | We live in Osaka. |
+
+### Example 3
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| わたしの かぞくは よにんです。 | *Watashi no kazoku wa yo-nin desu.* | There are four people in my family. |
+| ちちと わたしと いもうと ふたりです。 | *Chichi to watashi to imooto futari desu.* | My father, me, and my two younger sisters. |
+| わたしたちは ほっかいどうに すんでいます。 | *Watashitachi wa Hokkaidoo ni sunde imasu.* | We live in Hokkaido. |
+
+### Example 4
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| わたしの かぞくは よにんです。 | *Watashi no kazoku wa yo-nin desu.* | There are four people in my family. |
+| ちちと わたしと ははと あにです。 | *Chichi to watashi to haha to ani desu.* | My father, me, my mother, and my elder brother. |
+| わたしたちは ひろしまに すんでいます。 | *Watashitachi wa Hiroshima ni sunde imasu.* | We live in Hiroshima. |
+
+---
+
 ## 🐾 Pets (ペット)
 
 | Japanese | Romaji | English |
@@ -178,9 +210,6 @@ N1 の N2
 | うさぎ | *usagi* | rabbit |
 | きんぎょ | *kingyo* | goldfish |
 
-**Example:**
-* ねこを かっています。 (*Neko o katte imasu.*) — I keep a cat.
-
 ---
 
 ## 👤 Referring to People
@@ -192,25 +221,15 @@ N1 の N2
 | Man / Boy | おとこのひと (*otoko-no-hito*) | おとこのこ (*otoko-no-ko*) |
 | Woman / Girl | おんなのひと (*onna-no-hito*) | おんなのこ (*onna-no-ko*) |
 
-### When You Don't Know the Person's Name
-
-When talking about a person whose name you do not know, use:
-
-| Japanese | Romaji | English |
-| :--- | :--- | :--- |
-| あの おとこのこ | *ano otoko-no-ko* | that boy |
-| あの おとこのひと | *ano otoko-no-hito* | that gentleman |
-| あの おんなのこ | *ano onna-no-ko* | that girl |
-| あの おんなのひと | *ano onna-no-hito* | that lady |
-
-> **Note:** Using "あの おとこ" (that man) or "あの おんな" (that woman) without the のひと/のこ suffix is considered **rude**.
+> **Note:** Using "あの おとこ" or "あの おんな" without the のひと/のこ suffix is considered **rude**.
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
-- **2026-10-03:** Started Rikai Lesson 4. Learned the full family tree (own vs. someone else's vocabulary), pet vocabulary, and how to refer to people by gender and age appropriately.
-- **2026-10-04:** Continued Rikai Lesson 4. Learned the particle と (connecting nouns), に すんでいます (living in a place), and the particle の (possession/modification).
+- **2026-10-03:** Started Rikai Lesson 4. Learned the full family tree, pet vocabulary, and how to refer to people.
+- **2026-10-04:** Learned the particle と (connecting nouns), に すんでいます (living in a place), and the particle の (possession/modification).
+- **2026-10-05:** Completed Rikai Lesson 4. Practiced writing full family compositions with the particles learned.
 
 ---
 
@@ -234,3 +253,6 @@ When talking about a person whose name you do not know, use:
 
 **Page 6 — Particle の (Possession)**
 ![Rikai Notes Page 6](images/rikai-lesson-4-notes-6.jpg)
+
+**Page 7 — Family Composition Practice Sentences**
+![Rikai Notes Page 7](images/rikai-lesson-4-notes-7.jpg)
