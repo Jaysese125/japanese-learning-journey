@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 2 complete, starting Topic 3* |
+| **Current Status** | 🟢 **Active** — *Topic 3, Katsudoo Lesson 5* |
 | **Started** | 2026 |
 
 ---
@@ -58,13 +58,16 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
     │   └── Rikai/
     │       ├── Lesson-1-Hiragana/
     │       └── Lesson-2-Katakana/
-    └── Topic-2-Myself/
-        ├── Katsudoo/
-        │   ├── Lesson-3-Nice-to-meet-you/
-        │   └── Lesson-4-There-are-three-people-in-my-family/
-        └── Rikai/
-            ├── Lesson-3-Nice-to-meet-you/
-            └── Lesson-4-There-are-three-people-in-my-family/
+    ├── Topic-2-Myself/
+    │   ├── Katsudoo/
+    │   │   ├── Lesson-3-Nice-to-meet-you/
+    │   │   └── Lesson-4-There-are-three-people-in-my-family/
+    │   └── Rikai/
+    │       ├── Lesson-3-Nice-to-meet-you/
+    │       └── Lesson-4-There-are-three-people-in-my-family/
+    └── Topic-3-Food/
+        └── Katsudoo/
+            └── Lesson-5-What-kind-of-food-do-you-like/
 
 **Conventions:**
 - One folder per curriculum module (`Topic-X-...`).
@@ -88,14 +91,15 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 2** — わたし | Rikai Lesson 3: どうぞ よろしく | Particles (は, で, を, が, も), sentence structure, expressing ability | ✅ |
 | **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | ✅ |
 | **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Family tree, pets, particles (と, に, の), living places | ✅ |
+| **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, kanji (肉, 魚, 卵, 水), particles と and も | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL YOU HAVE TOPIC 3 NOTES):
-  1. Create Topic-3-... folder structure.
-  2. Add a new row to the table above for Katsudoo Lesson 5.
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL KATSUDOO LESSON 5 IS FINISHED):
+  1. Change the 🚧 in the table above to ✅.
+  2. Add a new row when you start the next lesson.
   3. Update the "Progress Log" at the bottom of this file.
   4. Update the "Current Status" in the Executive Summary above.
   ========================================================================
@@ -156,7 +160,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-01 | **Katsudoo Lesson 4 started:** Learning family vocabulary, counting people, and talking about family members. |
 | 2026-10-03 | **Katsudoo Lesson 4 completed.** **Rikai Lesson 4 started:** Learning the full family tree, pet vocabulary, and how to refer to people appropriately. |
 | 2026-10-04 | **Rikai Lesson 4 continued:** Learned particles と, に (living in), and の. |
-| 2026-10-05 | **Rikai Lesson 4 completed.** **Topic 2 complete!** 🎉 Ready to start Topic 3. |
+| 2026-10-05 | **Rikai Lesson 4 completed.** **Topic 2 complete!** 🎉 |
+| 2026-10-06 | **Topic 3 started:** Began Katsudoo Lesson 5. Learned food vocabulary, kanji (肉, 魚, 卵, 水), and particles と and も. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
