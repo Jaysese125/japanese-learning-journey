@@ -91,7 +91,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 2** — わたし | Rikai Lesson 3: どうぞ よろしく | Particles (は, で, を, が, も), sentence structure, expressing ability | ✅ |
 | **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | ✅ |
 | **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Family tree, pets, particles (と, に, の), living places | ✅ |
-| **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, kanji (肉, 魚, 卵, 水), particles と and も | 🚧 |
+| **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, drinks, kanji (肉, 魚, 卵, 水), particles と and も | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
@@ -162,6 +162,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-04 | **Rikai Lesson 4 continued:** Learned particles と, に (living in), and の. |
 | 2026-10-05 | **Rikai Lesson 4 completed.** **Topic 2 complete!** 🎉 |
 | 2026-10-06 | **Topic 3 started:** Began Katsudoo Lesson 5. Learned food vocabulary, kanji (肉, 魚, 卵, 水), and particles と and も. |
+| 2026-10-07 | **Katsudoo Lesson 5 continued:** Learned drinks vocabulary, offering drinks, and food preference dialogues. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
