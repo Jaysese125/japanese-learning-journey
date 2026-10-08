@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 3 — たべもの (Tabemono - Food)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -82,7 +82,6 @@ You are having a buffet-style breakfast at a hotel during a trip.
 **Stroke order:** 亅 → 水 → 水
 
 - 水を のみます。 (*Mizu o nomimasu.*) — I drink water.
-- すいようびは うんどうを します。 (*Suiyoobi wa undoo o shimasu.*) — I exercise on Wednesdays.
 
 ### 食 (tabemasu) — Eat
 - ひるごはんを 食べます。 (*Hiru gohan o tabemasu.*) — Eating lunch.
@@ -93,7 +92,7 @@ You are having a buffet-style breakfast at a hotel during a trip.
 ## 🔗 Grammar: Particle と (to)
 
 ### Use
-Use 「と」when there are **2 or more nouns in a row**.
+Use 「と」when there are **2 or more nouns in a row**. 
 「と」**cannot** be used when connecting two sentences.
 
 ### Example
@@ -116,10 +115,29 @@ Use 「も」when you want to say **"also / too"**.
 
 ---
 
+## ⏰ Asking About Habits (いつも / よく / あまり)
+
+| Adverb | Meaning | Usage |
+| :--- | :--- | :--- |
+| いつも | *itsumo* | always / usually |
+| よく | *yoku* | often |
+| あまり (+ negative) | *amari* | not much |
+
+### Examples
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| いつも あさごはんを たべますか。 | *Itsumo asagohan o tabemasu ka.* | Do you always eat breakfast? |
+| はい、たべます。 | *Hai, tabemasu.* | Yes, I do. |
+| いいえ、あまり たべません。 | *Iie, amari tabemasen.* | No, I don't usually eat. |
+| なにを よく たべますか。 | *Nani o yoku tabemasu ka.* | What do you often eat? |
+| たまごを よく たべます。 | *Tamago o yoku tabemasu.* | I often eat eggs. |
+| くだものは あまり たべません。 | *Kudamono wa amari tabemasen.* | I don't eat fruits much. |
+
+---
+
 ## 💬 Practice Dialogues
 
 ### Dialogue 1: Food Preferences (Kawasaki & Dan)
-
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
 | A) かわさき | なにが すきですか。 | *Nani ga suki desu ka.* | What do you like? |
@@ -128,16 +146,7 @@ Use 「も」when you want to say **"also / too"**.
 | B) ダン | 肉は すきじゃないです。あまり 食べません。 | *Niku wa suki ja nai desu. Amari tabemasen.* | I don't like meat. I don't eat it much. |
 | A) かわさき | へえー。わたしは 魚が すきです。 | *Hee. Watashi wa sakana ga suki desu.* | Ohh. I like fish. |
 
-### Dialogue 2: What Kind of Food Do You Like?
-
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| A | すきな りょうりは なんですか。 | *Sukina ryoori wa nan desu ka.* | What kind of food do you like? |
-| B | カレーが すきです。 | *Karee ga suki desu.* | I like curry. |
-| A | へえ。じゃ、よる、食べましょう。 | *Hee. Ja, yoru, tabemashoo.* | Really? Okay, let's have it tonight. |
-
-### Dialogue 3: Offering a Drink
-
+### Dialogue 2: Offering a Drink
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
 | A) かわさき | コーヒー、飲みますか。 | *Koohi, nomimasu ka.* | Do you want a coffee? |
@@ -145,30 +154,36 @@ Use 「も」when you want to say **"also / too"**.
 | A) かわさき | はい、どうぞ。 | *Hai, doozo.* | Here you are. |
 | B) まつもと | すみません。 | *Sumimasen.* | Thank you. |
 
-### Dialogue 4: Polite Refusal
-
+### Dialogue 3: Interviewing Mai About Breakfast Habits
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| A | コーヒー、飲みますか。 | *Koohi, nomimasu ka.* | Do you want a coffee? |
-| B | いいえ、けっこうです。 | *Iie, kekkoo desu.* | No, thank you. |
+| A | まいさん、まいにち あさごはんを たべますか。 | *Mai-san, mainichi asagohan o tabemasu ka.* | Mai, do you eat breakfast everyday? |
+| B | はい、もちろんです。 | *Hai, mochiron desu.* | Yes, of course. |
+| A | そうですか。なにを たべますか。 | *Soo desu ka. Nani o tabemasu ka.* | I see. What do you eat? |
+| B | パン、やさい...それから たまごを いつも たべます。 | *Pan, yasai... sorekara tamago o itsumo tabemasu.* | Bread, vegetables... and I always eat eggs. |
 
-### Dialogue 5: Breakfast at Kimura Family's House
-
+### Dialogue 4: Kimura Family Breakfast
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| — | きむらさんの いえの あさごはんです。 | *Kimura-san no ie no asagohan desu.* | Breakfast at the Kimura family's house. |
-| A | おはよう。 | *Ohayoo.* | Morning. |
-| B | おはようございます。 | *Ohayoo gozaimasu.* | Good morning. |
-| A | コーヒー、飲みますか。 | *Koohi, nomimasu ka.* | Do you want a coffee? |
-| B | コーヒーを もらいましょう。はい、おねがいします。 | *Koohi o moraimashoo. Hai, onegaishimasu.* | That sounds good. Have coffee. Yes, please. |
-| A | はい、どうぞ。 | *Hai, doozo.* | Here you are. |
+| — | きむらさんの いえの あさです。あさごはんに ついて はなしましょう。 | *Kimura-san no ie no asa desu. Asagohan ni tsuite hanashimashoo.* | It's morning in the Kimura family's house. Let's talk about breakfast. |
+| A | いつも あさごはんを たべますか。 | *Itsumo asagohan o tabemasu ka.* | Do you always eat breakfast? |
+| B | いいえ、あまり たべません。 | *Iie, amari tabemasen.* | No, I don't eat much. |
+| A | そうですか。わたしは コーヒーを のみます。なにも たべません。 | *Soo desu ka. Watashi wa koohi o nomimasu. Nani mo tabemasen.* | Oh? I drink coffee. I don't eat anything. |
+
+### Breakfast Questionnaire (アンケート)
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| Q1 | いつも あさごはんを たべますか。 | *Itsumo asagohan o tabemasu ka.* | Do you always eat breakfast? |
+| Q2 | なにを よく たべますか。 | *Nani o yoku tabemasu ka.* | What do you often eat? |
+| Q3 | なにを よく のみますか。 | *Nani o yoku nomimasu ka.* | What do you often drink? |
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
 - **2026-10-06:** Started Katsudoo Lesson 5. Learned food vocabulary, kanji practice (肉, 魚, 卵, 水), and particles と (and) and も (also/too).
-- **2026-10-07:** Continued Katsudoo Lesson 5. Learned drinks vocabulary, how to offer drinks (コーヒー、飲みますか), polite refusal (けっこうです), and practiced food preference dialogues.
+- **2026-10-07:** Continued Katsudoo Lesson 5. Learned drinks vocabulary, how to offer drinks, and food preference dialogues.
+- **2026-10-08:** Completed Katsudoo Lesson 5. Learned how to ask about daily habits (いつも, よく, あまり), practiced breakfast dialogues, and completed a breakfast questionnaire.
 
 ---
 
@@ -192,3 +207,9 @@ Use 「も」when you want to say **"also / too"**.
 
 **Page 6 — Cafeteria & Kimura Breakfast Dialogues**
 ![Lesson 5 Notes Page 6](images/lesson-05-notes-6.jpg)
+
+**Page 7 — Breakfast Habits & Mai's Interview**
+![Lesson 5 Notes Page 7](images/lesson-05-notes-7.jpg)
+
+**Page 8 — Kimura Family Dialogue & Questionnaire**
+![Lesson 5 Notes Page 8](images/lesson-05-notes-8.jpg)
