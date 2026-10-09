@@ -94,7 +94,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | ✅ |
 | **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Family tree, pets, particles (と, に, の), living places | ✅ |
 | **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, drinks, kanji (肉, 魚, 卵, 水), particles と and も | ✅ |
-| **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Food vocabulary, すき/きらい, particles と and も, asking habits | 🚧 |
+| **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes (すき/すきじゃない), たべます vs のみます | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
@@ -166,7 +166,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-05 | **Rikai Lesson 4 completed.** **Topic 2 complete!** 🎉 |
 | 2026-10-06 | **Topic 3 started:** Began Katsudoo Lesson 5. Learned food vocabulary, kanji (肉, 魚, 卵, 水), and particles と and も. |
 | 2026-10-07 | **Katsudoo Lesson 5 continued:** Learned drinks vocabulary, offering drinks, and food preference dialogues. |
-| 2026-10-08 | **Katsudoo Lesson 5 completed.** **Rikai Lesson 5 started:** Learning food vocabulary, すき/きらい, and asking about daily habits. |
+| 2026-10-08 | **Katsudoo Lesson 5 completed.** |
+| 2026-10-09 | **Rikai Lesson 5 started:** Learning すきです / すきじゃないです (likes/dislikes) and たべます vs のみます. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
