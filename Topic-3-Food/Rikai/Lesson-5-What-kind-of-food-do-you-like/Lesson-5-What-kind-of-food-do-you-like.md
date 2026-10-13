@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 3 — たべもの (Tabemono - Food)
 **Mode:** りかい (Rikai)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -37,6 +37,7 @@
 | みず | *mizu* | water |
 | ぎゅうにゅう | *gyuunyuu* | milk |
 | ビール | *biiru* | beer |
+| こうちゃ | *koocha* | English tea |
 
 ---
 
@@ -109,6 +110,68 @@ N を V (verb) ますか。
 
 ---
 
+## ⏰ Grammar: Frequency Adverbs (よく / あまり)
+
+### Use
+Used when saying **how frequently something is done**.
+
+### Structure
+よく V ます。
+あまり V ません。
+
+
+| Adverb | Meaning | Used with |
+| :--- | :--- | :--- |
+| **よく** (*yoku*) | often | Affirmative verbs |
+| **あまり** (*amari*) | not much / not often | Negative verbs |
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | ほせさんは コーヒーを よく のみます。 | *Hose-san wa koohi o yoku nomimasu.* | Jose often drinks coffee. |
+| ② | シンさんは こうちゃは あまり のみません。 | *Shin-san wa koocha wa amari nomimasen.* | Mr. Shin doesn't drink tea very often. |
+| ③ | A: よく 肉を たべますか。 | *A: Yoku niku o tabemasu ka.* | A: Do you often eat meat? |
+|   | B: いいえ、肉は あまり たべません。 | *B: Iie, niku wa amari tabemasen.* | B: No, I don't eat it very often. |
+
+### Commentary
+* 「よく V ます」indicates **high frequency**.
+* 「あまり V ません」indicates that an action is **not done frequently**.
+
+---
+
+## 💬 Practice Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | あべさんは やさいを よく たべます。 | *Abe-san wa yasai o yoku tabemasu.* | Abe often eats vegetables. |
+| ② | シンさんは こうちゃは あまり のみません。 | *Shin-san wa koocha wa amari nomimasen.* | Shin doesn't drink tea very often. |
+| ③ | ほせさんは コーヒーを よく のみます。 | *Hose-san wa koohi o yoku nomimasu.* | Hose often drinks coffee. |
+| ④ | わたしは パンは あまり たべません。 | *Watashi wa pan wa amari tabemasen.* | I don't eat bread very often. |
+
+### Breakfast Dialogue
+
+| Speaker | Japanese | Romaji | English |
+| :--- | :--- | :--- | :--- |
+| — | いつも あさごはんを たべますか。 | *Itsumo asagohan o tabemasu ka.* | Do you always eat breakfast? |
+| — | はい、たべます。 | *Hai, tabemasu.* | Yes, I do. |
+| — | なにを たべますか。 | *Nani o tabemasu ka.* | What do you eat? |
+| — | わたしは パンと くだものを よく たべます。 | *Watashi wa pan to kudamono o yoku tabemasu.* | I often eat bread and fruits. |
+| — | にくは？ | *Niku wa?* | What about meat? |
+| — | にくは あまり たべません。 | *Niku wa amari tabemasen.* | I don't eat meat very often. |
+
+### My Breakfast (わたしの あさごはん)
+
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| わたしは いつも パンを たべます。 | *Watashi wa itsumo pan o tabemasu.* | I always eat bread. |
+| やさいと たまごも たべます。 | *Yasai to tamago mo tabemasu.* | I also eat vegetables and eggs. |
+| ごはんは あまり たべません。 | *Gohan wa amari tabemasen.* | I don't eat rice very often. |
+| よく コーヒーを のみます。 | *Yoku koohi o nomimasu.* | I often drink coffee. |
+| こうちゃも すきです。 | *Koocha mo suki desu.* | I also like English tea. |
+
+---
+
 ## 🗣️ Practice Dialogues
 
 ### Dialogue 1: Food Preferences (Yan & Noda)
@@ -134,12 +197,15 @@ N を V (verb) ますか。
 
 **B.** 「を」indicates that N is the **object** of the action.
 
+**C.** 「よく V ます」= high frequency. 「あまり V ません」= low frequency.
+
 ---
 
 ## 📝 Study Log & Additional Notes
 
 - **2026-10-09:** Started Rikai Lesson 5. Learned how to express likes and dislikes (すきです / すきじゃないです), and the difference between たべます (eat) and のみます (drink).
-- **2026-10-11:** Continued Rikai Lesson 5. Learned the particle を with verbs (たべます, のみます), the difference between が and は in the context of likes/dislikes, and practiced asking about daily habits.
+- **2026-10-11:** Learned the particle を with verbs, the difference between が and は in the context of likes/dislikes, and practiced asking about daily habits.
+- **2026-10-13:** Completed Rikai Lesson 5. Learned frequency adverbs よく (often) and あまり (not much), practiced breakfast dialogues, and wrote a sample breakfast description.
 
 ---
 
@@ -160,3 +226,9 @@ N を V (verb) ますか。
 
 **Page 5 — Abe & Hose Dialogue + を Particle & Examples**
 ![Rikai Notes Page 5](images/rikai-lesson-5-notes-5.jpg)
+
+**Page 6 — Frequency Adverbs よく / あまり**
+![Rikai Notes Page 6](images/rikai-lesson-5-notes-6.jpg)
+
+**Page 7 — Practice Examples & Breakfast Description**
+![Rikai Notes Page 7](images/rikai-lesson-5-notes-7.jpg)

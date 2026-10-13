@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 3, Rikai Lesson 5* |
+| **Current Status** | 🟢 **Active** — *Topic 3 complete* |
 | **Started** | 2026 |
 
 ---
@@ -94,17 +94,16 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 2** — わたし | Katsudoo Lesson 4: かぞくは さんにんです | Family vocabulary, counting people, asking about family | ✅ |
 | **Topic 2** — わたし | Rikai Lesson 4: かぞくは さんにんです | Family tree, pets, particles (と, に, の), living places | ✅ |
 | **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, drinks, kanji (肉, 魚, 卵, 水), particles と and も | ✅ |
-| **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes (すき/すきじゃない), たべます vs のみます | 🚧 |
+| **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes, particles を and が/は, frequency adverbs | ✅ |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 5 IS FINISHED):
-  1. Change the 🚧 in the table above to ✅.
-  2. Add a new row when you start the next lesson.
-  3. Update the "Progress Log" at the bottom of this file.
-  4. Update the "Current Status" in the Executive Summary above.
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL YOU START TOPIC 4 / LESSON 6):
+  1. Add a new row when you start the next lesson.
+  2. Update the "Progress Log" at the bottom of this file.
+  3. Update the "Current Status" in the Executive Summary above.
   ========================================================================
 -->
 
@@ -165,9 +164,9 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-04 | **Rikai Lesson 4 continued:** Learned particles と, に (living in), and の. |
 | 2026-10-05 | **Rikai Lesson 4 completed.** **Topic 2 complete!** 🎉 |
 | 2026-10-06 | **Topic 3 started:** Began Katsudoo Lesson 5. Learned food vocabulary, kanji (肉, 魚, 卵, 水), and particles と and も. |
-| 2026-10-07 | **Katsudoo Lesson 5 continued:** Learned drinks vocabulary, offering drinks, and food preference dialogues. |
 | 2026-10-08 | **Katsudoo Lesson 5 completed.** |
-| 2026-10-09 | **Rikai Lesson 5 started:** Learning すきです / すきじゃないです (likes/dislikes) and たべます vs のみます. |
+| 2026-10-09 | **Rikai Lesson 5 started:** Learning すきです / すきじゃないです (likes/dislikes). |
+| 2026-10-13 | **Rikai Lesson 5 completed.** Learned frequency adverbs よく / あまり. **Topic 3 complete!** 🎉 |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
@@ -175,7 +174,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 
 ## 📬 Contact
 
-**Jay** — Documentation & Learning Portfolio
+**Jay** — Documentation and Learning Portfolio
 📎 GitHub: [@Jaysese125](https://github.com/Jaysese125)
 
 ---
