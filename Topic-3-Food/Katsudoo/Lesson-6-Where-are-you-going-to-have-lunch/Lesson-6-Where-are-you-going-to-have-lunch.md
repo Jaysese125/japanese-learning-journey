@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 3 — たべもの (Tabemono - Food)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -51,6 +51,15 @@ You are going out for lunch with coworkers or friends during break time at a com
 | すし | *sushi* | sushi |
 | ラーメン | *raamen* | ramen |
 
+### Fast Food Restaurant Types (ファーストフードの みせ)
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| ハンバーガーショップ | *hanbaagaa shoppu* | hamburger restaurant |
+| コーヒーショップ | *koohi shoppu* | coffee shop |
+| たちぐいそば | *tachigui soba* | soba noodle bar (stand and eat) |
+| べんとうや | *bentoo-ya* | lunch box shop |
+| かいてんずし | *kaiten-zushi* | revolving sushi |
+
 ---
 
 ## 💬 Grammar: すきな りょうりは なんですか
@@ -62,7 +71,6 @@ You are going out for lunch with coworkers or friends during break time at a com
 | カレーと すし です。 | *Karee to sushi desu.* | It's curry and sushi. |
 | カレー が すきです。 | *Karee ga suki desu.* | I like curry. |
 | カレー が いちばん すきです。 | *Karee ga ichiban suki desu.* | I like curry the most. |
-| A) そうですか。わたしも です。 | *Soo desu ka. Watashi mo desu.* | Oh really? Me too. |
 
 ---
 
@@ -83,13 +91,6 @@ You are going out for lunch with coworkers or friends during break time at a com
 | B | どこで たべるか きめましょう。 | *Doko de taberu ka kimemashoo.* | Decide where you'll eat. |
 | A | きょうは どこで たべますか。 | *Kyoo wa doko de tabemasu ka.* | Where shall we eat today? |
 | B | この みせに しましょう。おいしいですよ。 | *Kono mise ni shimashoo. Oishii desu yo.* | Let's eat at this place. It's delicious. |
-
-### Dialogue 3: Reading the Menu
-| Japanese | Romaji | English |
-| :--- | :--- | :--- |
-| メニューを よみます。 | *Menyuu o yomimasu.* | Read a menu. |
-| ファーストフードてんで たべましょう。 | *Faasuto-fuudo ten de tabemashoo.* | Let's eat at a fast-food restaurant. |
-| メニューが わかりますか。 | *Menyuu ga wakarimasu ka.* | Do you understand the menu? |
 
 ---
 
@@ -126,27 +127,29 @@ When ordering items (not people), use the native Japanese counting system.
 
 ---
 
-## 🗣️ Ordering Flow (Hamburger Shop)
+## 🗣️ Ordering Flow & Expressions
 
 **Staff:** いらっしゃいませ。 (*Irasshaimase.* — Welcome.)
-**Mai:** すみません。チーズバーガー ひとつと オレンジジュース ひとつ ください。 (*Sumimasen. Chiizu-baagaa hitotsu to orenji-juusu hitotsu kudasai.* — Excuse me. One cheeseburger and one orange juice, please.)
-**Staff:** はい、チーズバーガー ひとつと オレンジジュース ひとつですね。630えん です。 (*Hai, chiizu-baagaa hitotsu to orenji-juusu hitotsu desu ne. Roppyaku-sanjuu en desu.* — Okay, one cheeseburger and one orange juice. That's 630 yen.)
+**Staff:** ごちゅうもんは？ (*Gochuumon wa?* — Can I take your order?)
+**Mai:** チーズバーガー ひとつと オレンジジュース ひとつ ください。 (*Chiizu-baagaa hitotsu to orenji-juusu hitotsu kudasai.* — One cheeseburger and one orange juice, please.)
+**Staff:** チーズバーガー ひとつと オレンジジュース ひとつですね。630えん です。 (*Chiizu-baagaa hitotsu to orenji-juusu hitotsu desu ne. Roppyaku-sanjuu en desu.* — One cheeseburger and one orange juice. That's 630 yen.)
 **Mai:** どうも ありがとうございます。 (*Doomo arigatoo gozaimasu.* — Thank you very much.)
 
 ### Useful Phrases
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
 | いらっしゃいませ。 | *Irasshaimase.* | Welcome. |
+| ごちゅうもんは？ | *Gochuumon wa?* | Can I take your order? |
 | なにを たべますか。 | *Nani o tabemasu ka.* | What will you have to eat? |
-| この みせは チーズバーガーが おいしいですよ。 | *Kono mise wa chiizu-baagaa ga oishii desu yo.* | The cheeseburger here is really tasty. |
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
 - **2026-10-15:** Started Katsudoo Lesson 6. Learned kanji 食 (eat) and 飲 (drink), food dish vocabulary, and how to talk about your favorite dish.
-- **2026-10-16:** Learned how to ask about and comment on restaurants, how to choose a place to eat, and practiced lunch dialogues.
-- **2026-10-17:** Learned how to order food at a fast-food restaurant, read a menu with prices, and use the counting system (ひとつ, ふたつ, みっつ) for ordering.
+- **2026-10-16:** Learned how to ask about and comment on restaurants, and practiced lunch dialogues.
+- **2026-10-17:** Learned how to order food at a fast-food restaurant, read a menu with prices, and use the counting system (ひとつ, ふたつ, みっつ).
+- **2026-10-18:** Completed Katsudoo Lesson 6. Learned ordering expressions (ごちゅうもんは？) and types of fast-food restaurants.
 
 ---
 
@@ -173,3 +176,6 @@ When ordering items (not people), use the native Japanese counting system.
 
 **Page 7 — Ordering Dialogue Flow**
 ![Lesson 6 Notes Page 7](images/lesson-06-notes-7.jpg)
+
+**Page 8 — Ordering Expressions & Restaurant Types**
+![Lesson 6 Notes Page 8](images/lesson-06-notes-8.jpg)
