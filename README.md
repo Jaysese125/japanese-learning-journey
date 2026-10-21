@@ -70,7 +70,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
         │   ├── Lesson-5-What-kind-of-food-do-you-like/
         │   └── Lesson-6-Where-are-you-going-to-have-lunch/
         └── Rikai/
-            └── Lesson-5-What-kind-of-food-do-you-like/
+            ├── Lesson-5-What-kind-of-food-do-you-like/
+            └── Lesson-6-Where-are-you-going-to-have-lunch/
 
 **Conventions:**
 - One folder per curriculum module (`Topic-X-...`).
@@ -97,15 +98,17 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, drinks, kanji (肉, 魚, 卵, 水), particles と and も | ✅ |
 | **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes, particles を and が/は, frequency adverbs | ✅ |
 | **Topic 3** — たべもの | Katsudoo Lesson 6: どこで たべますか | Dish vocabulary, kanji 食 and 飲, ordering food, counting items | ✅ |
+| **Topic 3** — たべもの | Rikai Lesson 6: どこで たべますか | Food/shop vocabulary, opposite adjectives, すきな/きらいな + noun | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
   🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 6 IS FINISHED):
-  1. Add a new row when you start the next lesson.
-  2. Update the "Progress Log" at the bottom of this file.
-  3. Update the "Current Status" in the Executive Summary above.
+  1. Change the 🚧 in the table above to ✅.
+  2. Add a new row when you start the next lesson.
+  3. Update the "Progress Log" at the bottom of this file.
+  4. Update the "Current Status" in the Executive Summary above.
   ========================================================================
 -->
 
@@ -169,7 +172,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-08 | **Katsudoo Lesson 5 completed.** |
 | 2026-10-13 | **Rikai Lesson 5 completed.** Learned frequency adverbs よく / あまり. |
 | 2026-10-15 | **Katsudoo Lesson 6 started:** Learning kanji 食 / 飲, dish vocabulary, and how to talk about your favorite dish. |
-| 2026-10-18 | **Katsudoo Lesson 6 completed.** Learned ordering expressions, prices, and counting items (ひとつ, ふたつ, みっつ). |
+| 2026-10-18 | **Katsudoo Lesson 6 completed.** Learned ordering expressions, prices, and counting items. |
+| 2026-10-21 | **Rikai Lesson 6 started:** Learning extended food/shop vocabulary, opposite adjectives, and すきな/きらいな + noun. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
