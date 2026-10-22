@@ -89,10 +89,10 @@ Used when talking about **what one likes or dislikes within a specific category*
 
 | # | Japanese | Romaji | English |
 | :---: | :--- | :--- | :--- |
-| ① | すきな りょうりは てんぷらです。 | *Sukina ryoori wa tenpura desu.* | My favorite dish is tempura. |
-| ② | きらいな たべものは さかなです。 | *Kiraina tabemono wa sakana desu.* | I don't like fish. (The dish I don't like is fish) |
-| ③ | A: すきな りょうりは なんですか。 | *A: Sukina ryoori wa nan desu ka.* | A: What is your favorite dish? |
-|   | B: すしです。 | *B: Sushi desu.* | B: It's sushi. |
+| ① | すきな りょうりは ピザです。 | *Sukina ryoori wa piza desu.* | My favorite dish is pizza. |
+| ② | すきな くだものは バナナです。 | *Sukina kudamono wa banana desu.* | My favorite fruit is banana. |
+| ③ | すきな のみものは こうちゃです。 | *Sukina nomimono wa koocha desu.* | My favorite drink is English tea. |
+| ④ | きらいな たべものは さかなです。 | *Kiraina tabemono wa sakana desu.* | The food I don't like is fish. |
 
 ### Dialogue Example
 | Speaker | Japanese | Romaji | English |
@@ -101,14 +101,69 @@ Used when talking about **what one likes or dislikes within a specific category*
 | キム | カレーです。 | *Karee desu.* | It's curry. |
 | よしだ | わたしは ハンバーガーが すきです。 | *Watashi wa hanbaagaa ga suki desu.* | I like hamburgers. |
 
+---
+
+## 📍 Grammar: Particle で (de) for Location
+
+### Use
+Used when talking about **where one eats or drinks** (where the action takes place).
+
+### Structure
+N (Place) で V (verb) ます。
+どこ で V (verb) ますか。
+
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | コーヒーショップで サンドイッチを たべます。 | *Koohi-shoppu de sandoitchi o tabemasu.* | I eat sandwiches at the coffee shop. |
+| ② | A: きょう どこで ひるごはんを たべますか。 | *A: Kyoo doko de hiru gohan o tabemasu ka.* | A: Where will you eat lunch today? |
+|   | B: あの みせで たべます。 | *B: Ano mise de tabemasu.* | B: I'll eat lunch at that shop. |
+
+### Conversation Example
+| Speaker | Japanese | Romaji | English |
+| :--- | :--- | :--- | :--- |
+| A | きょう どこで ひるごはんを たべますか。 | *Kyoo doko de hiru gohan o tabemasu ka.* | Where will you eat lunch today? |
+| B | 「いっぽ」で たべます。 | *"Ippo" de tabemasu.* | I'll eat at "Ippo". |
+| A | 「いっぽ」？ | *"Ippo"?* | "Ippo"? |
+| B | はい。ラーメンやさんです。おいしいですよ。 | *Hai. Raamen-ya-san desu. Oishii desu yo.* | Yes. It's a ramen shop. It's delicious. |
+| A | じゃあ、わたしも いきます。 | *Jaa, watashi mo ikimasu.* | Then I'll go too. |
+
 ### Commentary
-N1 is something from one of the categories: "cooking", "foods", or "drinks".
+「で」indicates that N is **where the action takes place**. (Don't confuse with 「を」which indicates the *object* of the action).
+
+---
+
+## 🎨 Grammar: い-Adjective Conjugation
+
+### Use
+Used when the speaker is **giving their opinion or thoughts** on something.
+
+### Structure
+N は イA-い です。 (Affirmative)
+N は イA-く ない です。 (Negative)
+
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | 「ふじや」は やすいです。 | *"Fujiya" wa yasui desu.* | Fujiya is cheap. |
+| ② | あの おすしやさんは たかくないです。 | *Ano osushi-ya-san wa takakunai desu.* | That sushi shop is not expensive. |
+| ③ | A: あの ラーメンやさんは どうですか。 | *A: Ano raamen-ya-san wa doo desu ka.* | A: How about that ramen shop? |
+|   | B: おいしいですよ。わたしは すきです。 | *B: Oishii desu yo. Watashi wa suki desu.* | B: It's delicious. I like it. |
+
+### Commentary
+**A.** 「イA-いです」is **affirmative**. 「イA-くないです」is **negative**.
+**B.** When it is understood in context what N is, 「N は」may be **omitted**. (See example ③).
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
 - **2026-10-21:** Started Rikai Lesson 6. Learned extended food vocabulary, shop names using ～や, opposite adjectives (おいしい/まずい, たかい/やすい, はやい/おそい), and how to use すきな / きらいな before a noun.
+- **2026-10-22:** Continued Rikai Lesson 6. Learned the particle で for location (where an action takes place) and how to conjugate い-adjectives into negative form (～くないです).
 
 ---
 
@@ -123,3 +178,12 @@ N1 is something from one of the categories: "cooking", "foods", or "drinks".
 
 **Page 3 — すきな / きらいな + Noun Grammar**
 ![Rikai Notes Page 3](images/rikai-lesson-6-notes-3.jpg)
+
+**Page 4 — Suki/Kirai Practice & で Particle Intro**
+![Rikai Notes Page 4](images/rikai-lesson-6-notes-4.jpg)
+
+**Page 5 — で Particle Structure & Examples**
+![Rikai Notes Page 5](images/rikai-lesson-6-notes-5.jpg)
+
+**Page 6 — い-Adjective Conjugation**
+![Rikai Notes Page 6](images/rikai-lesson-6-notes-6.jpg)
