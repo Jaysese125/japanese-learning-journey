@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 3, Rikai Lesson 6* |
+| **Current Status** | 🟢 **Active** — *Topic 3 complete, starting Topic 4* |
 | **Started** | 2026 |
 
 ---
@@ -52,19 +52,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
     ├── LICENSE
     ├── README.md
     ├── Topic-1-Japanese/
-    │   ├── Katsudoo/
-    │   │   ├── Lesson-1-Hello/
-    │   │   └── Lesson-2-Would-you-say-that-again/
-    │   └── Rikai/
-    │       ├── Lesson-1-Hiragana/
-    │       └── Lesson-2-Katakana/
     ├── Topic-2-Myself/
-    │   ├── Katsudoo/
-    │   │   ├── Lesson-3-Nice-to-meet-you/
-    │   │   └── Lesson-4-There-are-three-people-in-my-family/
-    │   └── Rikai/
-    │       ├── Lesson-3-Nice-to-meet-you/
-    │       └── Lesson-4-There-are-three-people-in-my-family/
     └── Topic-3-Food/
         ├── Katsudoo/
         │   ├── Lesson-5-What-kind-of-food-do-you-like/
@@ -98,13 +86,14 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 3** — たべもの | Katsudoo Lesson 5: なにが すきですか | Food vocabulary, drinks, kanji (肉, 魚, 卵, 水), particles と and も | ✅ |
 | **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes, particles を and が/は, frequency adverbs | ✅ |
 | **Topic 3** — たべもの | Katsudoo Lesson 6: どこで たべますか | Dish vocabulary, kanji 食 and 飲, ordering food, counting items | ✅ |
-| **Topic 3** — たべもの | Rikai Lesson 6: どこで たべますか | Food/shop vocabulary, opposite adjectives, すきな/きらいな + noun | 🚧 |
+| **Topic 3** — たべもの | Rikai Lesson 6: どこで たべますか | Food/shop vocabulary, opposites, すきな/きらいな, で particle, い-adjectives | ✅ |
+| **Topic 4** — いえ | Katsudoo Lesson 7: いえに なにが ありますか | House/Home vocabulary, existence (あります / います) | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 6 IS FINISHED):
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL KATSUDOO LESSON 7 IS FINISHED):
   1. Change the 🚧 in the table above to ✅.
   2. Add a new row when you start the next lesson.
   3. Update the "Progress Log" at the bottom of this file.
@@ -166,7 +155,6 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-09-30 | **Rikai Lesson 3 completed.** Mastered ～が できます (expressing ability) and the particle も (also/too). |
 | 2026-10-01 | **Katsudoo Lesson 4 started:** Learning family vocabulary, counting people, and talking about family members. |
 | 2026-10-03 | **Katsudoo Lesson 4 completed.** **Rikai Lesson 4 started:** Learning the full family tree, pet vocabulary, and how to refer to people appropriately. |
-| 2026-10-04 | **Rikai Lesson 4 continued:** Learned particles と, に (living in), and の. |
 | 2026-10-05 | **Rikai Lesson 4 completed.** **Topic 2 complete!** 🎉 |
 | 2026-10-06 | **Topic 3 started:** Began Katsudoo Lesson 5. Learned food vocabulary, kanji (肉, 魚, 卵, 水), and particles と and も. |
 | 2026-10-08 | **Katsudoo Lesson 5 completed.** |
@@ -174,6 +162,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-15 | **Katsudoo Lesson 6 started:** Learning kanji 食 / 飲, dish vocabulary, and how to talk about your favorite dish. |
 | 2026-10-18 | **Katsudoo Lesson 6 completed.** Learned ordering expressions, prices, and counting items. |
 | 2026-10-21 | **Rikai Lesson 6 started:** Learning extended food/shop vocabulary, opposite adjectives, and すきな/きらいな + noun. |
+| 2026-10-24 | **Rikai Lesson 6 completed.** **Topic 3 complete!** 🎉 Ready to start Topic 4. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 

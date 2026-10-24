@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 3 — たべもの (Tabemono - Food)
 **Mode:** りかい (Rikai)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -55,34 +55,33 @@
 
 ### Shop Names (～や)
 Adding 「や」 (*ya*) to a food name means "shop/store that sells that food."
-
-| Food | Shop |
-| :--- | :--- |
-| うどん (*udon*) | → うどんや (*udon-ya* - udon shop) |
-| そば (*soba*) | → そばや (*soba-ya* - soba shop) |
-| すし (*sushi*) | → すしや (*sushi-ya* - sushi shop) |
-| ラーメン (*raamen*) | → ラーメンや (*raamen-ya* - ramen shop) |
+* うどんや (*udon-ya* - udon shop)
+* そばや (*soba-ya* - soba shop)
+* すしや (*sushi-ya* - sushi shop)
+* ラーメンや (*raamen-ya* - ramen shop)
 
 ---
 
-## ⚖️ Opposite Meanings (Adjectives)
+## ⚖️ Adjectives: Positive & Negative
 
-| Affirmative | Negative / Opposite |
+| Positive | Negative |
 | :--- | :--- |
-| おいしいです (*oishii desu*) - delicious | まずいです (*mazui desu*) - tastes bad |
-| たかいです (*takai desu*) - expensive | やすいです (*yasui desu*) - cheap |
-| はやいです (*hayai desu*) - fast | おそいです (*osoi desu*) - slow |
+| おいしいです (*oishii desu*) - delicious | おいしくないです (*oishi kunai desu*) |
+| やすいです (*yasui desu*) - cheap | やすくないです (*yasuku nai desu*) |
+| まずいです (*mazui desu*) - tastes bad | まずくないです (*mazuku nai desu*) |
+| たかいです (*takai desu*) - expensive | たかくないです (*takakunai desu*) |
+| はやいです (*hayai desu*) - fast | はやくないです (*hayakunai desu*) |
+| おそいです (*osoi desu*) - slow | おそくないです (*osokunai desu*) |
 
 ---
 
 ## 🔑 Grammar: すきな / きらいな + Noun
 
 ### Use
-Used when talking about **what one likes or dislikes within a specific category** (e.g., cooking, foods, drinks).
+Used when talking about **what one likes or dislikes within a specific category**.
 
 ### Structure
 すきな / きらいな N1 は N2 です。
-すきな / きらいな N は なん ですか。
 
 
 ### Examples
@@ -93,13 +92,6 @@ Used when talking about **what one likes or dislikes within a specific category*
 | ② | すきな くだものは バナナです。 | *Sukina kudamono wa banana desu.* | My favorite fruit is banana. |
 | ③ | すきな のみものは こうちゃです。 | *Sukina nomimono wa koocha desu.* | My favorite drink is English tea. |
 | ④ | きらいな たべものは さかなです。 | *Kiraina tabemono wa sakana desu.* | The food I don't like is fish. |
-
-### Dialogue Example
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| よしだ | すきな りょうりは なんですか。 | *Sukina ryoori wa nan desu ka.* | What is your favorite dish? |
-| キム | カレーです。 | *Karee desu.* | It's curry. |
-| よしだ | わたしは ハンバーガーが すきです。 | *Watashi wa hanbaagaa ga suki desu.* | I like hamburgers. |
 
 ---
 
@@ -120,18 +112,6 @@ N (Place) で V (verb) ます。
 | ① | コーヒーショップで サンドイッチを たべます。 | *Koohi-shoppu de sandoitchi o tabemasu.* | I eat sandwiches at the coffee shop. |
 | ② | A: きょう どこで ひるごはんを たべますか。 | *A: Kyoo doko de hiru gohan o tabemasu ka.* | A: Where will you eat lunch today? |
 |   | B: あの みせで たべます。 | *B: Ano mise de tabemasu.* | B: I'll eat lunch at that shop. |
-
-### Conversation Example
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| A | きょう どこで ひるごはんを たべますか。 | *Kyoo doko de hiru gohan o tabemasu ka.* | Where will you eat lunch today? |
-| B | 「いっぽ」で たべます。 | *"Ippo" de tabemasu.* | I'll eat at "Ippo". |
-| A | 「いっぽ」？ | *"Ippo"?* | "Ippo"? |
-| B | はい。ラーメンやさんです。おいしいですよ。 | *Hai. Raamen-ya-san desu. Oishii desu yo.* | Yes. It's a ramen shop. It's delicious. |
-| A | じゃあ、わたしも いきます。 | *Jaa, watashi mo ikimasu.* | Then I'll go too. |
-
-### Commentary
-「で」indicates that N is **where the action takes place**. (Don't confuse with 「を」which indicates the *object* of the action).
 
 ---
 
@@ -154,16 +134,43 @@ N は イA-く ない です。 (Negative)
 | ③ | A: あの ラーメンやさんは どうですか。 | *A: Ano raamen-ya-san wa doo desu ka.* | A: How about that ramen shop? |
 |   | B: おいしいですよ。わたしは すきです。 | *B: Oishii desu yo. Watashi wa suki desu.* | B: It's delicious. I like it. |
 
-### Commentary
+---
+
+## 💬 Conversation & Practice
+
+### Conversation: Choosing a Restaurant
+| Speaker | Japanese | Romaji | English |
+| :--- | :--- | :--- | :--- |
+| A | きょう どこで ひるごはんを たべますか。 | *Kyoo doko de hiru gohan o tabemasu ka.* | Where will you eat lunch today? |
+| B | そうですね、きょうは 「ふじや」で たべます。 | *Soo desu ne, kyoo wa "Fujiya" de tabemasu.* | Let's see, today I'll eat at "Fujiya". |
+| A | 「ふじや」？ にほんりょうりですか。 | *"Fujiya"? Nihon ryoori desu ka.* | "Fujiya"? Is it Japanese food? |
+| B | はい、そうです。「ふじや」は おいしいですよ。 | *Hai, soo desu. "Fujiya" wa oishii desu yo.* | Yes, that's right. "Fujiya" is delicious. |
+| A | そうですか。じゃあ、わたしも いきます。 | *Soo desu ka. Jaa, watashi mo ikimasu.* | I see. Then I'll go too. |
+
+### My Lunch (わたしの ひるごはん)
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| すきな りょうりは すしです。 | *Sukina ryoori wa sushi desu.* | My favorite dish is sushi. |
+| そばは あまり すきじゃないです。 | *Soba wa amari suki janai desu.* | I don't like soba very much. |
+| ひるごはんは 「えびずし」で たべます。 | *Hiru gohan wa "Ebi-sushi" de tabemasu.* | I eat lunch at "Ebi-sushi". |
+| 「えびずし」は やすくないです。 | *"Ebi-sushi" wa yasukunai desu.* | "Ebi-sushi" is not cheap. |
+| でも、おいしいです。 | *Demo, oishii desu.* | But, it's delicious. |
+
+---
+
+## 📝 Commentary & Key Notes
+
 **A.** 「イA-いです」is **affirmative**. 「イA-くないです」is **negative**.
-**B.** When it is understood in context what N is, 「N は」may be **omitted**. (See example ③).
+**B.** When it is understood in context what N is, 「N は」may be **omitted**.
+**C.** 「で」indicates that N is **where the action takes place**.
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
-- **2026-10-21:** Started Rikai Lesson 6. Learned extended food vocabulary, shop names using ～や, opposite adjectives (おいしい/まずい, たかい/やすい, はやい/おそい), and how to use すきな / きらいな before a noun.
-- **2026-10-22:** Continued Rikai Lesson 6. Learned the particle で for location (where an action takes place) and how to conjugate い-adjectives into negative form (～くないです).
+- **2026-10-21:** Started Rikai Lesson 6. Learned extended food vocabulary, shop names using ～や, and すきな / きらいな + noun.
+- **2026-10-22:** Learned the particle で for location and how to conjugate い-adjectives into negative form (～くないです).
+- **2026-10-24:** Completed Rikai Lesson 6. Practiced adjective negatives and wrote a short paragraph about lunch preferences.
 
 ---
 
@@ -187,3 +194,6 @@ N は イA-く ない です。 (Negative)
 
 **Page 6 — い-Adjective Conjugation**
 ![Rikai Notes Page 6](images/rikai-lesson-6-notes-6.jpg)
+
+**Page 7 — Adjective Negatives & "My Lunch" Paragraph**
+![Rikai Notes Page 7](images/rikai-lesson-6-notes-7.jpg)
