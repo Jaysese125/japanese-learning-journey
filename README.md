@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 3 complete, starting Topic 4* |
+| **Current Status** | 🟢 **Active** — *Topic 4, Katsudoo Lesson 7* |
 | **Started** | 2026 |
 
 ---
@@ -53,13 +53,12 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
     ├── README.md
     ├── Topic-1-Japanese/
     ├── Topic-2-Myself/
-    └── Topic-3-Food/
+    ├── Topic-3-Food/
+    └── Topic-4-Home/
         ├── Katsudoo/
-        │   ├── Lesson-5-What-kind-of-food-do-you-like/
-        │   └── Lesson-6-Where-are-you-going-to-have-lunch/
+        │   └── Lesson-7-There-are-three-rooms-in-my-home/
         └── Rikai/
-            ├── Lesson-5-What-kind-of-food-do-you-like/
-            └── Lesson-6-Where-are-you-going-to-have-lunch/
+            └── Lesson-7-There-are-three-rooms-in-my-home/
 
 **Conventions:**
 - One folder per curriculum module (`Topic-X-...`).
@@ -87,7 +86,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes, particles を and が/は, frequency adverbs | ✅ |
 | **Topic 3** — たべもの | Katsudoo Lesson 6: どこで たべますか | Dish vocabulary, kanji 食 and 飲, ordering food, counting items | ✅ |
 | **Topic 3** — たべもの | Rikai Lesson 6: どこで たべますか | Food/shop vocabulary, opposites, すきな/きらいな, で particle, い-adjectives | ✅ |
-| **Topic 4** — いえ | Katsudoo Lesson 7: いえに なにが ありますか | House/Home vocabulary, existence (あります / います) | 🚧 |
+| **Topic 4** — いえ | Katsudoo Lesson 7: いえに なにが ありますか | House types, home objects, adjectives, counting items | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
@@ -162,7 +161,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-15 | **Katsudoo Lesson 6 started:** Learning kanji 食 / 飲, dish vocabulary, and how to talk about your favorite dish. |
 | 2026-10-18 | **Katsudoo Lesson 6 completed.** Learned ordering expressions, prices, and counting items. |
 | 2026-10-21 | **Rikai Lesson 6 started:** Learning extended food/shop vocabulary, opposite adjectives, and すきな/きらいな + noun. |
-| 2026-10-24 | **Rikai Lesson 6 completed.** **Topic 3 complete!** 🎉 Ready to start Topic 4. |
+| 2026-10-24 | **Rikai Lesson 6 completed.** **Topic 3 complete!** 🎉 |
+| 2026-10-25 | **Topic 4 started:** Began Katsudoo Lesson 7. Learned house types, home objects, adjectives, and counting items. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
