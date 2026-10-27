@@ -21,15 +21,13 @@
 * **アパート (apaato)** and **マンション (manshon)** are both residential complexes. In general, a small-scale complex is an "apaato" and a large-scale one is a "manshon".
 * "アパート" is derived from the English word "apartment" and is usually a 2- to 3-story building.
 * "マンション" comes from the word "mansion", but it actually means a residential complex.
-* **いっこだて (ikkodate - detached house)** is a private residence, distinguished from a residential complex. There are various styles of detached houses. 
-  * Asano-san's house is a traditional building in Okinawa and does not have a second floor. 
-  * Ogawa-san's house is a recent Japanese-style architecture.
+* **いっこだて (ikkodate - detached house)** is a private residence, distinguished from a residential complex.
 
 ---
 
 ## 🏠 Vocabulary
 
-### Types of Homes
+### Types of Homes & Rooms
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
 | いえ | *ie* | house / home |
@@ -48,20 +46,20 @@
 | ソファ | *sofa* | sofa |
 | いす | *isu* | chair |
 
-### Adjectives
-| Japanese | Romaji | English | Opposite |
-| :--- | :--- | :--- | :--- |
-| せまい | *semai* | narrow / small | ひろい (*hiroi* - spacious) |
-| ちいさい | *chiisai* | small | おおきい (*ookii* - big) |
-| あたらしい | *atarashii* | new | ふるい (*furui* - old) |
-| あかるい | *akarui* | bright | くらい (*kurai* - dark) |
+### Places in Town (Nearby)
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| レストラン | *resutoran* | restaurant |
+| デパート | *depaato* | department store |
+| こうえん | *kooen* | park |
+| ゆうめいな ところ | *yuumeena tokoro* | famous place |
+| ちかく | *chikaku* | nearby |
 
 ---
 
-## 🔢 Counting Items (ひとつ, ふたつ...)
+## 🔢 Counting Objects & Asking "How Many"
 
-When counting objects (like rooms or furniture), use the native Japanese counting system.
-
+### Counting Items (ひとつ, ふたつ...)
 | Number | Japanese | Romaji |
 | :---: | :--- | :--- |
 | 1 | ひとつ | *hitotsu* |
@@ -71,42 +69,73 @@ When counting objects (like rooms or furniture), use the native Japanese countin
 | 5 | いつつ | *itsutsu* |
 | 6 | むっつ | *muttsu* |
 
+### Interrogative: いくつ (ik u tsu)
+**Note:** Used for asking "how many" for things.
+* いくつ ありますか。 (*Ikutsu arimasu ka.*) — How many are there?
+
 ---
 
 ## 💬 Practice Sentences
 
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
-| わたしは とうきょうに すんで(い)ます。 | *Watashi wa Tookyoo ni sunde (i)masu.* | I live in Tokyo. |
-| わたしの いえは アパートです。 | *Watashi no ie wa apaato desu.* | My house is an apartment. |
-| ひろい ところに すんで(い)ます。 | *Hiroi tokoro ni sunde (i)masu.* | I live in a spacious place. |
-| わたしの いえは せまいです。 | *Watashi no ie wa semai desu.* | My house is narrow/small. |
+| わたしの いえには へやが いつつ あります。 | *Watashi no ie ni wa heya ga itsutsu arimasu.* | There are 5 rooms in my house. |
+| ベッドが あります。 | *Beddo ga arimasu.* | There is a bed. |
+| エアコンも あります。 | *Eakon mo arimasu.* | There is also an air conditioner. |
+| テレビは ありません。 | *Terebi wa arimasen.* | There is no TV. |
 
 ---
 
-## 🗣️ Dialogue: Asking Ueda-san About Her House
+## 🗣️ Dialogue: Asking Mr. Kimura About His House
 
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| A | うえださんは どこに すんで いますか。 | *Ueda-san wa doko ni sunde imasu ka.* | Where do you live, Ms. Ueda? |
-| B | おおさかに すんで います。 | *Oosaka ni sunde imasu.* | I live in Osaka. |
-| A | そうですか。いっこだてですか。 | *Soo desu ka. Ikkodate desu ka.* | Really? Do you live in a detached house? |
-| B | はい、いっこだてです。 | *Hai, ikkodate desu.* | Yes, it's a detached house. |
-| A | うえださんの いえは あたらしいですか。 | *Ueda-san no ie wa atarashii desu ka.* | Is it a new house? |
-| B | いいえ、ふるいです。でも、あかるいです。 | *Iie, furui desu. Demo, akarui desu.* | No, it's old. But it's bright inside. |
+| A | きむらさんの いえに なにが ありますか。 | *Kimura-san no ie ni nani ga arimasu ka.* | What do you have in your house, Mr. Kimura? |
+| B | わたしの いえには へやが 5つ あります。 | *Watashi no ie ni wa heya ga itsutsu arimasu.* | There are 5 rooms in my place. |
+| A | へえ、ひろいですね。へやに なにが ありますか。 | *Hee, hiroi desu ne. Heya ni nani ga arimasu ka.* | Oh, it's spacious isn't it. What do you have in your room? |
+| B | ベッド、ソファと テレビが あります。 | *Beddo, sofa to terebi ga arimasu.* | There's a bed, a sofa, and a TV. |
+| B | おおきい テーブルも ありますよ。 | *Ookii teeburu mo arimasu yo.* | There's a big table too. |
 
-### Follow-up Dialogue (Country vs. Current Home)
+### Dialogue: Telling Mai & Taichi About Your House
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| A | くにでは どんな いえに すんでいましたか。 | *Kuni de wa donna ie ni sunde imashita ka.* | What kind of house did you live in in your country? |
-| B | マンションに すんでいました。あたらしいです。 | *Manshon ni sunde imashita. Atarashii desu.* | I lived in an apartment complex. It's new. |
+| A | くにでは どんな いえに すんで（い）ますか。 | *Kuni de wa donna ie ni sunde (i)masu ka.* | What kind of house do you live in in your country? |
+| B | マンションに すんで います。あたらしいです。おおきい テレビが あります。 | *Manshon ni sunde imasu. Atarashii desu. Ookii terebi ga arimasu.* | I live in an apartment house. It's a new house. We have a big TV. |
 | A | へえ、そうですか。 | *Hee, soo desu ka.* | Oh, really? |
+
+---
+
+## ✉️ Writing an Invitation Email (メールを かきます)
+
+### Situation
+Write an email inviting someone to your home (e.g., Mai-san and Taichi-kun).
+
+### Email Vocabulary & Expressions
+* やすみに あそびに きて ください。 (*Yasumi ni asobi ni kite kudasai.*) — Please come and visit on your day off.
+* ちかくに デパートが あります。 (*Chikaku ni depaato ga arimasu.*) — There is a department store nearby.
+* Famous places: とうきょうタワー (*Tookyoo Tawaa*), ふじさん (*Fuji-san*).
+
+### Culture: How to Write a Japanese Email
+1. Write the name of the other person at the beginning (e.g., 「ロベルタさん Roberta-san」).
+2. Write a greeting such as 「こんにちは」(*Konnichiwa*) or 「おげんきですか」(*Ogenki desu ka*).
+3. Write your own name at the end.
+
+### Email Example
+> ロベルタさん
+> こんにちは。
+> わたしの いえは マンションです。
+> わたしの いえは あかるいです。
+> ちかくに こうえんが あります。
+> やすみに あそびに きて ください。
+> 
+> さとう
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
-- **2026-10-25:** Started Topic 4 (Katsudoo Lesson 7). Learned types of homes (アパート, マンション, いっこだて), home-related adjectives (せまい, ひろい, etc.), how to ask/talk about where someone lives, and counting objects (ひとつ, ふたつ...).
+- **2026-10-25:** Started Katsudoo Lesson 7. Learned types of homes, home-related adjectives, and counting objects.
+- **2026-10-27:** Learned the interrogative いくつ (how many), how to describe what is in a room, and how to write an invitation email in Japanese.
 
 ---
 
@@ -121,3 +150,12 @@ When counting objects (like rooms or furniture), use the native Japanese countin
 
 **Page 3 — House Items & Counting**
 ![Lesson 7 Notes Page 3](images/lesson-07-notes-3.jpg)
+
+**Page 4 — いくつ & Kimura Conversation**
+![Lesson 7 Notes Page 4](images/lesson-07-notes-4.jpg)
+
+**Page 5 — Telling Mai/Taichi & Email Intro**
+![Lesson 7 Notes Page 5](images/lesson-07-notes-5.jpg)
+
+**Page 6 — Email Vocabulary & Culture**
+![Lesson 7 Notes Page 6](images/lesson-07-notes-6.jpg)
