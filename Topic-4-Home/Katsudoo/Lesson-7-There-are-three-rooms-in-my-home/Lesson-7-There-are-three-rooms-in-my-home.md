@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 4 — いえ (Ie - Home)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -69,7 +69,7 @@
 | 5 | いつつ | *itsutsu* |
 | 6 | むっつ | *muttsu* |
 
-### Interrogative: いくつ (ik u tsu)
+### Interrogative: いくつ (ikutsu)
 **Note:** Used for asking "how many" for things.
 * いくつ ありますか。 (*Ikutsu arimasu ka.*) — How many are there?
 
@@ -136,6 +136,7 @@ Write an email inviting someone to your home (e.g., Mai-san and Taichi-kun).
 
 - **2026-10-25:** Started Katsudoo Lesson 7. Learned types of homes, home-related adjectives, and counting objects.
 - **2026-10-27:** Learned the interrogative いくつ (how many), how to describe what is in a room, and how to write an invitation email in Japanese.
+- **2026-10-29:** Completed Katsudoo Lesson 7.
 
 ---
 

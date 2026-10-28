@@ -1,15 +1,15 @@
-# 🎌 Rikai Lesson 5: なにが すきですか (Nani ga suki desu ka)
+# 🎌 Rikai Lesson 7: へやが 3つ あります (Heya ga mittsu arimasu)
 
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
-**Topic:** Topic 3 — たべもの (Tabemono - Food)
+**Topic:** Topic 4 — いえ (Ie - Home)
 **Mode:** りかい (Rikai)
-**Status:** ✅ Completed
+**Status:** 🚧 In Progress
 
 ---
 
 ## 🎯 Can-Do Objective
-**Can-do:** Talk about likes and dislikes, and understand the difference between eating and drinking.
-**Goal:** すきな たべものについて はなします (Talk about your favorite foods)
+**Can-do:** Describe your home and what is in it using existence verbs.
+**Goal:** いえに なにが あるか いいます (Say what is in your house)
 
 ---
 
@@ -17,218 +17,111 @@
 
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
-| にくが すきです。 | *Niku ga suki desu.* | I like meat. |
-| やさいは すきじゃないです。 | *Yasai wa suki janai desu.* | I don't like vegetables. |
-| あさごはんを たべます。 | *Asagohan o tabemasu.* | I eat breakfast. |
-| コーヒーを よく のみます。 | *Koohi o yoku nomimasu.* | I often drink coffee. |
+| とうきょうに すんで います。 | *Tookyoo ni sunde imasu.* | I live in Tokyo. |
+| いっこだてに すんで います。 | *Ikkodate ni sunde imasu.* | I live in a detached house. |
+| かぞく と すんで います。 | *Kazoku to sunde imasu.* | I live with my family. |
+| アパートに すんで います。 | *Apaato ni sunde imasu.* | I live in an apartment. |
 
 ---
 
-## 🍽️ Food & Drink Vocabulary
+## 🏠 Vocabulary
 
+### Furniture & Home Objects
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
-| パン | *pan* | bread |
-| コーヒー | *koohi* | coffee |
-| ごはん | *gohan* | rice |
-| さかな | *sakana* | fish |
-| くだもの | *kudamono* | fruits |
-| たまご | *tamago* | egg |
-| みず | *mizu* | water |
-| ぎゅうにゅう | *gyuunyuu* | milk |
-| ビール | *biiru* | beer |
-| こうちゃ | *koocha* | English tea |
+| いす | *isu* | chair |
+| テーブル | *teeburu* | table |
+| ベッド | *beddo* | bed |
+| ソファ | *sofa* | sofa |
+| かぐ | *kagu* | furniture |
+| ほんだな | *hondana* | bookshelf |
+| つくえ | *tsukue* | desk |
+| かざり | *kazari* | ornament |
+| たな | *tana* | shelf |
 
----
-
-## ✍️ Kanji Practice
-
-### 魚 (sakana) — Fish
-### 肉 (niku) — Meat
-### 卵 (tamago) — Egg
-### 水 (mizu) — Water
-
-**Example Sentences:**
-* 魚と 肉を たべます。 (*Sakana to niku o tabemasu.*) — I eat fish and meat.
-* 卵は たべます。 (*Tamago wa tabemasu.*) — I eat eggs.
-* 水を のみます。 (*Mizu o nomimasu.*) — I drink water.
-
----
-
-## 🗣️ Grammar: Likes & Dislikes (すきです / すきじゃないです)
-
-### Use
-Used when talking about **likes and dislikes**.
-
-### Structure
-N (food/drink) は / が すきです。 (affirmative)
-が すきじゃないです。 (negative)
-が すきですか。 (interrogative)
-
-
-### Basic Sentences
-
+### Electrical Appliances (でんきせいひん)
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
-| にくが すきです。 | *Niku ga suki desu.* | I like meat. |
-| やさいは すきじゃないです。 | *Yasai wa suki janai desu.* | I don't like vegetables. |
-| なにが すきですか。 | *Nani ga suki desu ka.* | What do you like? |
+| エアコン | *eakon* | air conditioner |
+| テレビ | *terebi* | television |
+| でんわ | *denwa* | telephone |
+| れいぞうこ | *reizouko* | refrigerator |
+| でんしレンジ | *denshi renji* | microwave oven |
+| そうじき | *soujiki* | vacuum cleaner |
+| せんたくき | *sentakuki* | washing machine |
+| せんぷうき | *senpuuki* | electric fan |
+| ストーブ | *sutoobu* | heater |
+| ラジオ | *rajio* | radio |
+
+### The Neighborhood (いえの ちかく)
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| ちかく / ちかく | *chikaku* | nearby |
+| こうえん | *kooen* | park |
+| デパート | *depaato* | department store |
+| レストラン | *resutoran* | restaurant |
 
 ---
 
-## ⚖️ Grammar: が (ga) vs は (wa)
+## ⚖️ Opposite Meanings (Adjectives)
 
-Both particles can be used with すきです, but they have slightly different nuances.
-
-| Particle | Nuance | Example | Translation |
-| :---: | :--- | :--- | :--- |
-| **が (ga)** | Direct / Neutral. Just stating a fact, no comparison. | さかな**が** すきじゃないです。 | I don't like fish. *(Just a plain fact)* |
-| **は (wa)** | "As for..." / Contrast. Sets it apart from other items. | さかな**は** すきじゃないです。 | As for fish, I don't like it. *(Implies: but I might like other things)* |
+| Positive | Negative / Opposite |
+| :--- | :--- |
+| おおきいです (*ookii desu*) - big | ちいさいです (*chiisai desu*) - small |
+| あたらしいです (*atarashii desu*) - new | ふるいです (*furui desu*) - old |
+| あかるいです (*akarui desu*) - bright | くらいです (*kurai desu*) - dark |
+| ひろいです (*hiroi desu*) - spacious | せまいです (*semai desu*) - narrow |
 
 ---
 
-## 🍽️ Grammar: Particle を (o) + Verbs
+## 🔑 Grammar: Existence (あります / います)
 
 ### Use
-「を」is used only with **verbs (action words)**. It indicates that the noun is the **object** of the action (what you eat, drink, etc.).
+Used when asking or explaining the location of things.
+* **あります (arimasu)** is used for **inanimate things** (objects, plants, etc.).
+* **います (imasu)** is used for **animate things** (people, animals).
 
 ### Structure
-N は V (verb) ます。
-N を V (verb) ません。
-N を V (verb) ますか。
-なに を V (verb) ますか。
+N1 (Place) に N2 (inanimate) が あります。
+N1 (Place) に N2 (animate) が います。
+N1 (Place) に なに が ありますか。
 
 
 ### Examples
 
 | # | Japanese | Romaji | English |
 | :---: | :--- | :--- | :--- |
-| ① | A: なにを たべますか。 | *A: Nani o tabemasu ka.* | A: What do you eat? |
-|   | B: ラーメンと たまごを たべます。 | *B: Raamen to tamago o tabemasu.* | B: I eat ramen and eggs. |
-| ② | A: いつも あさごはんを たべますか。 | *A: Itsumo asagohan o tabemasu ka.* | A: Do you always eat breakfast? |
-|   | B: いいえ、たべません。 | *B: Iie, tabemasen.* | B: No, I don't. |
-
----
-
-## ⏰ Grammar: Frequency Adverbs (よく / あまり)
-
-### Use
-Used when saying **how frequently something is done**.
-
-### Structure
-よく V ます。
-あまり V ません。
-
-
-| Adverb | Meaning | Used with |
-| :--- | :--- | :--- |
-| **よく** (*yoku*) | often | Affirmative verbs |
-| **あまり** (*amari*) | not much / not often | Negative verbs |
-
-### Examples
-
-| # | Japanese | Romaji | English |
-| :---: | :--- | :--- | :--- |
-| ① | ほせさんは コーヒーを よく のみます。 | *Hose-san wa koohi o yoku nomimasu.* | Jose often drinks coffee. |
-| ② | シンさんは こうちゃは あまり のみません。 | *Shin-san wa koocha wa amari nomimasen.* | Mr. Shin doesn't drink tea very often. |
-| ③ | A: よく 肉を たべますか。 | *A: Yoku niku o tabemasu ka.* | A: Do you often eat meat? |
-|   | B: いいえ、肉は あまり たべません。 | *B: Iie, niku wa amari tabemasen.* | B: No, I don't eat it very often. |
+| ① | わたしの へやに ソファが あります。 | *Watashi no heya ni sofa ga arimasu.* | There's a sofa in my room. |
+| ② | よしださんの いえに でんわは ありません。 | *Yoshida-san no ie ni denwa wa arimasen.* | There isn't a telephone in Mr. Yoshida's house. |
+| ③ | A: やまださんの いえに テレビが ありますか。 | *A: Yamada-san no ie ni terebi ga arimasu ka.* | A: Is there a television in your house, Yamada? |
+|   | B: いいえ、ありません。 | *B: Iie, arimasen.* | B: No, there isn't. |
+| ④ | A: あの へやに なにが ありますか。 | *A: Ano heya ni nani ga arimasu ka.* | A: What is in that room? |
+|   | B: テーブルと ベッドが あります。 | *B: Teeburu to beddo ga arimasu.* | B: There is a table and a bed. |
 
 ### Commentary
-* 「よく V ます」indicates **high frequency**.
-* 「あまり V ません」indicates that an action is **not done frequently**.
-
----
-
-## 💬 Practice Examples
-
-| # | Japanese | Romaji | English |
-| :---: | :--- | :--- | :--- |
-| ① | あべさんは やさいを よく たべます。 | *Abe-san wa yasai o yoku tabemasu.* | Abe often eats vegetables. |
-| ② | シンさんは こうちゃは あまり のみません。 | *Shin-san wa koocha wa amari nomimasen.* | Shin doesn't drink tea very often. |
-| ③ | ほせさんは コーヒーを よく のみます。 | *Hose-san wa koohi o yoku nomimasu.* | Hose often drinks coffee. |
-| ④ | わたしは パンは あまり たべません。 | *Watashi wa pan wa amari tabemasen.* | I don't eat bread very often. |
-
-### Breakfast Dialogue
-
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| — | いつも あさごはんを たべますか。 | *Itsumo asagohan o tabemasu ka.* | Do you always eat breakfast? |
-| — | はい、たべます。 | *Hai, tabemasu.* | Yes, I do. |
-| — | なにを たべますか。 | *Nani o tabemasu ka.* | What do you eat? |
-| — | わたしは パンと くだものを よく たべます。 | *Watashi wa pan to kudamono o yoku tabemasu.* | I often eat bread and fruits. |
-| — | にくは？ | *Niku wa?* | What about meat? |
-| — | にくは あまり たべません。 | *Niku wa amari tabemasen.* | I don't eat meat very often. |
-
-### My Breakfast (わたしの あさごはん)
-
-| Japanese | Romaji | English |
-| :--- | :--- | :--- |
-| わたしは いつも パンを たべます。 | *Watashi wa itsumo pan o tabemasu.* | I always eat bread. |
-| やさいと たまごも たべます。 | *Yasai to tamago mo tabemasu.* | I also eat vegetables and eggs. |
-| ごはんは あまり たべません。 | *Gohan wa amari tabemasen.* | I don't eat rice very often. |
-| よく コーヒーを のみます。 | *Yoku koohi o nomimasu.* | I often drink coffee. |
-| こうちゃも すきです。 | *Koocha mo suki desu.* | I also like English tea. |
-
----
-
-## 🗣️ Practice Dialogues
-
-### Dialogue 1: Food Preferences (Yan & Noda)
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| ヤン | のださん、たべものは なにが すきですか。 | *Noda-san, tabemono wa nani ga suki desu ka.* | Noda, what food do you like? |
-| のだ | やさいと さかなが すきです。くだものも すきです。 | *Yasai to sakana ga suki desu. Kudamono mo suki desu.* | I like vegetables and fish. I also like fruits. |
-| ヤン | わたしは にくが すきです。さかなは すきじゃないです。 | *Watashi wa niku ga suki desu. Sakana wa suki janai desu.* | I like meat. As for fish, I don't like it. |
-
-### Dialogue 2: Breakfast Habits (Abe & Hose)
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| あべ | ほせさん、いつも あさごはんを たべますか。 | *Hose-san, itsumo asagohan o tabemasu ka.* | Hose, do you always eat breakfast? |
-| ほせ | はい、たべます。 | *Hai, tabemasu.* | Yes, I do. |
-| あべ | なにを よく たべますか。 | *Nani o yoku tabemasu ka.* | What do you often eat? |
-| ほせ | わたしは パンと くだものを よく たべます。 | *Watashi wa pan to kudamono o yoku tabemasu.* | I often eat bread and fruits. |
-
----
-
-## 📝 Commentary & Key Notes
-
-**A.** 「Vます」is **affirmative**, 「Vません」is **negative**, and 「Vますか」is **interrogative**.
-
-**B.** 「を」indicates that N is the **object** of the action.
-
-**C.** 「よく V ます」= high frequency. 「あまり V ません」= low frequency.
+**A.** 「あります」indicates the existence of **inanimate things**.
+**B.** Used with 「に」and verbs that express existence such as 「あります」, N1 indicates the **place** where N2 is located.
+**C.** In cases when it is understood what N1 is, 「N1 に」is sometimes **omitted**. (See examples ③, ④).
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
-- **2026-10-09:** Started Rikai Lesson 5. Learned how to express likes and dislikes (すきです / すきじゃないです), and the difference between たべます (eat) and のみます (drink).
-- **2026-10-11:** Learned the particle を with verbs, the difference between が and は in the context of likes/dislikes, and practiced asking about daily habits.
-- **2026-10-13:** Completed Rikai Lesson 5. Learned frequency adverbs よく (often) and あまり (not much), practiced breakfast dialogues, and wrote a sample breakfast description.
+- **2026-10-29:** Started Rikai Lesson 7. Learned furniture and appliance vocabulary, opposite adjectives, and how to use あります and います to express existence.
 
 ---
 
 ## 📸 Handwritten Notes (Appendix)
 > *Scanned pages from my physical study notebook.*
 
-**Page 1 — Intro, Basic Sentences & Vocabulary**
-![Rikai Notes Page 1](images/rikai-lesson-5-notes-1.jpg)
+**Page 1 — Basic Sentences & Furniture Vocabulary**
+![Rikai Notes Page 1](images/rikai-lesson-7-notes-1.jpg)
 
-**Page 2 — Kanji Practice & すきです Structure**
-![Rikai Notes Page 2](images/rikai-lesson-5-notes-2.jpg)
+**Page 2 — Appliances, Neighborhood, & Opposites**
+![Rikai Notes Page 2](images/rikai-lesson-7-notes-2.jpg)
 
-**Page 3 — Examples & Commentary**
-![Rikai Notes Page 3](images/rikai-lesson-5-notes-3.jpg)
+**Page 3 — Sentences & あります Grammar**
+![Rikai Notes Page 3](images/rikai-lesson-7-notes-3.jpg)
 
-**Page 4 — Yan & Noda Dialogue + が vs は**
-![Rikai Notes Page 4](images/rikai-lesson-5-notes-4.jpg)
-
-**Page 5 — Abe & Hose Dialogue + を Particle & Examples**
-![Rikai Notes Page 5](images/rikai-lesson-5-notes-5.jpg)
-
-**Page 6 — Frequency Adverbs よく / あまり**
-![Rikai Notes Page 6](images/rikai-lesson-5-notes-6.jpg)
-
-**Page 7 — Practice Examples & Breakfast Description**
-![Rikai Notes Page 7](images/rikai-lesson-5-notes-7.jpg)
+**Page 4 — Grammar Examples & Commentary**
+![Rikai Notes Page 4](images/rikai-lesson-7-notes-4.jpg)

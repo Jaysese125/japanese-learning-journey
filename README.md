@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 4, Katsudoo Lesson 7* |
+| **Current Status** | 🟢 **Active** — *Topic 4, Rikai Lesson 7* |
 | **Started** | 2026 |
 
 ---
@@ -86,13 +86,14 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 3** — たべもの | Rikai Lesson 5: なにが すきですか | Likes/dislikes, particles を and が/は, frequency adverbs | ✅ |
 | **Topic 3** — たべもの | Katsudoo Lesson 6: どこで たべますか | Dish vocabulary, kanji 食 and 飲, ordering food, counting items | ✅ |
 | **Topic 3** — たべもの | Rikai Lesson 6: どこで たべますか | Food/shop vocabulary, opposites, すきな/きらいな, で particle, い-adjectives | ✅ |
-| **Topic 4** — いえ | Katsudoo Lesson 7: いえに なにが ありますか | House types, home objects, adjectives, counting items | 🚧 |
+| **Topic 4** — いえ | Katsudoo Lesson 7: いえに なにが ありますか | House types, home objects, adjectives, counting items, email writing | ✅ |
+| **Topic 4** — いえ | Rikai Lesson 7: いえに なにが ありますか | Furniture/appliances, opposites, existence verbs (あります/います) | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL KATSUDOO LESSON 7 IS FINISHED):
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 7 IS FINISHED):
   1. Change the 🚧 in the table above to ✅.
   2. Add a new row when you start the next lesson.
   3. Update the "Progress Log" at the bottom of this file.
@@ -163,6 +164,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-21 | **Rikai Lesson 6 started:** Learning extended food/shop vocabulary, opposite adjectives, and すきな/きらいな + noun. |
 | 2026-10-24 | **Rikai Lesson 6 completed.** **Topic 3 complete!** 🎉 |
 | 2026-10-25 | **Topic 4 started:** Began Katsudoo Lesson 7. Learned house types, home objects, adjectives, and counting items. |
+| 2026-10-29 | **Katsudoo Lesson 7 completed.** **Rikai Lesson 7 started:** Learning furniture/appliances, opposites, and existence verbs (あります/います). |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
