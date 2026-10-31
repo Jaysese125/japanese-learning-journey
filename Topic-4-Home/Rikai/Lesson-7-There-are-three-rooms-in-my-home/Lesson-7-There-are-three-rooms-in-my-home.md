@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Can-Do Objective
-**Can-do:** Describe your home and what is in it using existence verbs.
+**Can-do:** Describe your home and what is in it using existence verbs and adjectives.
 **Goal:** いえに なにが あるか いいます (Say what is in your house)
 
 ---
@@ -74,6 +74,35 @@
 
 ---
 
+## 🔑 Grammar: い-Adjective Conjugation
+
+### Use
+Used when describing the nature or characteristic (colour, shape, size, etc.) and the condition of an object.
+
+### Structure
+N は イA-い です。 (Affirmative)
+N は イA-く ない です。 (Negative)
+N は イA-い ですか。 (Interrogative)
+
+はい、イA-い です。 (Yes, it is.)
+いいえ、イA-く ない です。 (No, it isn't.)
+
+
+### Examples
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | わたしの いえは ふるいです。 | *Watashi no ie wa furui desu.* | My house is old. |
+| ② | A: たなかさんの いえは あたらしいですか。 | *A: Tanaka-san no ie wa atarashii desu ka.* | A: Mr. Tanaka, is your house new? |
+|   | B: はい、あたらしいです。 | *B: Hai, atarashii desu.* | B: Yes, it is. |
+| ③ | A: シンさんの いえは おおきいですか。 | *A: Shin-san no ie wa ookii desu ka.* | A: Mr. Shin, is your house big? |
+|   | B: いいえ、おおきくないです。 | *B: Iie, ookikunai desu.* | B: No, it isn't. / No, it's small. |
+
+### Commentary
+When it is understood from the context what N is, 「N は」 can be **omitted** (See examples ②③).
+
+---
+
 ## 🔑 Grammar: Existence (あります vs います)
 
 ### Use
@@ -93,6 +122,17 @@ N1 (Place) に N2 (living) が います。
 N1 (Place) に だれ が いますか。
 
 
+### Examples (あります)
+
+| # | Japanese | Romaji | English |
+| :---: | :--- | :--- | :--- |
+| ① | わたしの へやに ソファが あります。 | *Watashi no heya ni sofa ga arimasu.* | There's a sofa in my room. |
+| ② | よしださんの いえに でんわは ありません。 | *Yoshida-san no ie ni denwa wa arimasen.* | There isn't a telephone in Mr. Yoshida's house. |
+| ③ | A: やまださんの いえに テレビが ありますか。 | *A: Yamada-san no ie ni terebi ga arimasu ka.* | A: Is there a television in your house, Yamada? |
+|   | B: いいえ、ありません。 | *B: Iie, arimasen.* | B: No, there isn't. |
+| ④ | A: あの へやに なにが ありますか。 | *A: Ano heya ni nani ga arimasu ka.* | A: What is in that room? |
+|   | B: テーブルと ベッドが あります。 | *B: Teeburu to beddo ga arimasu.* | B: There is a table and a bed. |
+
 ### Examples (います)
 
 | # | Japanese | Romaji | English |
@@ -105,8 +145,8 @@ N1 (Place) に だれ が いますか。
 |   | B: おとこの がくせいが います。 | *B: Otoko no gakusee ga imasu.* | B: There is a male student there. |
 
 ### Commentary
-**A.** 「います」indicates the existence of **living creatures**.
-**B.** Used with 「に」and verbs that express existence such as 「います」, N1 indicates the **place** where N2 is located.
+**A.** 「あります」indicates the existence of **inanimate things**. 「います」indicates the existence of **living creatures**.
+**B.** Used with 「に」and verbs that express existence such as 「あります」/「います」, N1 indicates the **place** where N2 is located.
 **C.** In cases when it is understood what N1 is, 「N1 に」is sometimes **omitted**. (See examples ③, ④).
 
 ---
@@ -139,8 +179,8 @@ Based on the practice sentences:
 
 ## 📝 Study Log & Additional Notes
 
-- **2026-10-29:** Started Rikai Lesson 7. Learned furniture and appliance vocabulary, opposite adjectives, how to use あります for inanimate objects, and います for living creatures.
-- **2026-10-29:** Continued Rikai Lesson 7. Learned the culture behind Japanese room numbers (avoiding 4) and the nuances between particles に, が, and は in existence sentences.
+- **2026-10-29:** Started Rikai Lesson 7. Learned furniture and appliance vocabulary, opposite adjectives, and how to use あります for inanimate objects and います for living creatures.
+- **2026-10-31:** Continued Rikai Lesson 7. Learned how to conjugate い-adjectives (affirmative, negative, interrogative) to describe houses.
 
 ---
 
@@ -164,3 +204,6 @@ Based on the practice sentences:
 
 **Page 6 — Culture Note & Particle Rules**
 ![Rikai Notes Page 6](images/rikai-lesson-7-notes-6.jpg)
+
+**Page 7 — い-Adjective Conjugation**
+![Rikai Notes Page 7](images/rikai-lesson-7-notes-7.jpg)
