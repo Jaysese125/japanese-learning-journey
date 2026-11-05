@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 4 — いえ (Ie - Home)
 **Mode:** りかい (Rikai)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -94,7 +94,8 @@
 | あたらしいです (*atarashii desu*) - new | ふるいです (*furui desu*) - old |
 | ひろいです (*hiroi desu*) - spacious | せまいです (*semai desu*) - narrow |
 | あかるいです (*akarui desu*) - bright | くらいです (*kurai desu*) - dark |
-| きれいです (*kiree desu*) - tidy / clean | きたないです (*kitanai desu*) - untidy / dirty |
+| きれいです (*kiree desu*) - beautiful/clean | きたないです (*kitanai desu*) - untidy / dirty |
+| いいです (*ii desu*) - nice / good | わるいです (*warui desu*) - bad |
 
 ---
 
@@ -118,14 +119,14 @@ N1 (person) は だれ と すんで いますか。
 |   | B: つま と すんで います。 | *B: Tsuma to sunde imasu.* | B: I live with my wife. |
 
 ### Commentary
-If someone lives by himself/herself, 「ひとりで」(*hitori de* - alone) is used. (See example ②).
+If someone lives by himself/herself, 「ひとりで」(*hitori de* - alone) is used.
 
 ---
 
 ## 🔑 Grammar: い-Adjective Conjugation
 
 ### Use
-Used when describing the nature or characteristic (colour, shape, size, etc.) and the condition of an object.
+Used when describing the nature or characteristic of an object.
 
 ### Structure
 N は イA-い です。 (Affirmative)
@@ -133,24 +134,9 @@ N は イA-く ない です。 (Negative)
 N は イA-い ですか。 (Interrogative)
 
 
-### Examples
-
-| # | Japanese | Romaji | English |
-| :---: | :--- | :--- | :--- |
-| ① | わたしの いえは ふるいです。 | *Watashi no ie wa furui desu.* | My house is old. |
-| ② | A: たなかさんの いえは あたらしいですか。 | *A: Tanaka-san no ie wa atarashii desu ka.* | A: Mr. Tanaka, is your house new? |
-|   | B: はい、あたらしいです。 | *B: Hai, atarashii desu.* | B: Yes, it is. |
-| ③ | A: シンさんの いえは おおきいですか。 | *A: Shin-san no ie wa ookii desu ka.* | A: Mr. Shin, is your house big? |
-|   | B: いいえ、おおきくないです。 | *B: Iie, ookikunai desu.* | B: No, it isn't. |
-
 ---
 
 ## 🔑 Grammar: Existence (あります vs います)
-
-### Use
-Used when asking or explaining the location of things.
-* **あります (arimasu)** is used for **inanimate things** (objects, plants, etc.).
-* **います (imasu)** is used for **animate things / living creatures** (people, animals).
 
 ### Structure
 
@@ -164,38 +150,22 @@ N1 (Place) に N2 (living) が います。
 N1 (Place) に だれ が いますか。
 
 
-### Examples (あります / います)
-
-| # | Japanese | Romaji | English |
-| :---: | :--- | :--- | :--- |
-| ① | わたしの へやに ソファが あります。 | *Watashi no heya ni sofa ga arimasu.* | There's a sofa in my room. |
-| ② | よしださんの いえに でんわは ありません。 | *Yoshida-san no ie ni denwa wa arimasen.* | There isn't a telephone in Mr. Yoshida's house. |
-| ③ | A: あの へやに なにが ありますか。 | *A: Ano heya ni nani ga arimasu ka.* | A: What is in that room? |
-|   | B: テーブルと ベッドが あります。 | *B: Teeburu to beddo ga arimasu.* | B: There is a table and a bed. |
-| ④ | わたしの いえに いぬが います。 | *Watashi no ie ni inu ga imasu.* | There is a dog in my house. |
-| ⑤ | A: 301の へやに だれが いますか。 | *A: San-zero-ichi no heya ni dare ga imasu ka.* | A: Who is in room 301? |
-|   | B: おとこの がくせいが います。 | *B: Otoko no gakusee ga imasu.* | B: There is a male student there. |
-
 ---
 
-## 🏢 Culture: Room Numbers in Japan
+## 🏢 Culture: Room Numbers & Letters in Japan
 
+### Room Numbers
 Although "0" is read as 「ゼロ」(*zero*) or 「れい」(*rei*), 「まる」(*maru*) is sometimes used for room numbers. 
-* When using 「まる」 for the case of room 301, it is read as 「さんまるいち」(*san maru ichi*).
+* Room 301 is read as 「さんまるいち」(*san maru ichi*).
 
-**The Number 4:**
-Because "4" (し - *shi*) is associated with 「死」(*shi* - death), it has been customarily disliked since the Heian period in Japan. The number 4 is frequently not used for room numbers, particularly in hospitals and similar places. The next room after room 203 becomes room 205.
+Because "4" (し - *shi*) is associated with 「死」(*shi* - death), it has been customarily disliked since the Heian period. The number 4 is frequently skipped for room numbers.
 
----
+### How to Write a Letter (Culture)
+In Japanese letters, you may write "へ (e - dear/to)" after the name of the person you will be sending the letter to, and "より (yori - from)" after your own name. 
 
-## 🔍 Particle Rules (に, が, は)
-
-1. わたしの いえ**に** へや**が** みっつ あります。 (*Watashi no ie ni heya ga mittsu arimasu.*)
-2. テーブルと いす**は** あります。ソファ**は** ありません。 (*Teeburu to isu wa arimasu. Sofa wa arimasen.*)
-
-* **「に」(ni)** is used after a **place**.
-* **「は」(wa)** is used to describe something **vaguely** (often used for contrast).
-* **「が」(ga)** is used when **stating something, nothing more** (neutral description).
+**Example (Tanaka writing to Kimu):**
+* キムさんへ (*Kimu-san e*) — To Kimu-san
+* たなかより (*Tanaka yori*) — From Tanaka
 
 ---
 
@@ -203,7 +173,8 @@ Because "4" (し - *shi*) is associated with 「死」(*shi* - death), it has be
 
 - **2026-10-29:** Started Rikai Lesson 7. Learned furniture and appliance vocabulary, opposite adjectives, and how to use あります for inanimate objects and います for living creatures.
 - **2026-10-31:** Continued Rikai Lesson 7. Learned how to conjugate い-adjectives to describe houses.
-- **2026-11-04:** Learned how to say who you live with (～と すんで います), and expanded vocabulary for rooms (bedroom, kitchen, etc.), parts of a house (wall, door, etc.), and adjectives (きれい, きたない).
+- **2026-11-04:** Learned how to say who you live with (～と すんで います), and expanded vocabulary for rooms, parts of a house, and adjectives.
+- **2026-11-06:** Completed Rikai Lesson 7. Learned how to write Japanese letters (へ / より).
 
 ---
 
@@ -236,3 +207,6 @@ Because "4" (し - *shi*) is associated with 「死」(*shi* - death), it has be
 
 **Page 9 — Rooms, House Parts, & Adjectives**
 ![Rikai Notes Page 9](images/rikai-lesson-7-notes-9.jpg)
+
+**Page 10 — Adjectives & Letter Writing Culture**
+![Rikai Notes Page 10](images/rikai-lesson-7-notes-10.jpg)
