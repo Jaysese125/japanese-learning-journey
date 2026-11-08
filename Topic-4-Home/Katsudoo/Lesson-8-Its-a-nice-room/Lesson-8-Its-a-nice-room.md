@@ -27,12 +27,10 @@
 ### 大 (ookii) — Big
 **Stroke order:** 一 → 丿 → 乀 → 大
 * よしださんの いえは 大きいです。 (*Yoshida-san no ie wa ookii desu.*) — Yoshida-san's house is big.
-* 大きいテレビですね。 (*Ookii terebi desu ne.*) — That's a big TV, isn't it!
 
 ### 小 (chiisai) — Small
 **Stroke order:** 亅 → 八 → 小
 * わたしの へやは 小さいです。 (*Watashi no heya wa chiisai desu.*) — My room is small.
-* 小さいカップですね。 (*Chiisai kappu desu ne.*) — That's a small cup, isn't it!
 
 ### 新 (atarashii) — New
 **Stroke order:** 立 → 木 → 斤 → 新
@@ -41,7 +39,6 @@
 ### 古 (furui) — Old
 **Stroke order:** 十 → 口 → 古
 * この にんぎょうは 古いです。 (*Kono ningyoo wa furui desu.*) — This doll is old.
-* 古い いえですね。 (*Furui ie desu ne.*) — It's an old house, isn't it!
 
 ---
 
@@ -92,6 +89,44 @@
 
 ---
 
+## 🚪 Visiting a Friend's Home (いえを ほうもんします)
+
+### Expressions When Visiting
+| Speaker | Japanese | Romaji | English |
+| :--- | :--- | :--- | :--- |
+| Visitor | ごめんください。 | *Gomen kudasai.* | Excuse me. / Anybody home? / May I come in? |
+| Host | いらっしゃい。 | *Irasshai.* | How nice of you to come / Welcome / Come in. |
+| Host | どうぞ あがって ください。 | *Doozo agatte kudasai.* | Please come in. |
+| Visitor | おじゃまします。 | *Ojama shimasu.* | Excuse me. / May I come in? *(Used when going into a room. "Shitsuree shimasu" is also used.)* |
+
+### Serving Tea & Remarks About the Room
+| Speaker | Japanese | Romaji | English |
+| :--- | :--- | :--- | :--- |
+| Visitor | いい へやですね。 | *Ii heya desu ne.* | This is a great room. |
+| Host | おちゃ、どうぞ。 | *Ocha, doozo.* | Tea, please. |
+| Visitor | いただきます。 | *Itadakimasu.* | Thank you for the food/drink. |
+| Visitor | おいしいですね。 | *Oishii desu ne.* | It's delicious. |
+| — | ひろいですね。 | *Hiroi desu ne.* | It's roomy. |
+
+---
+
+## 🇯🇵 Culture Notes
+
+### When You Are Invited to a Japanese Person's Home
+*   **Bring a present:** You better bring some present (pastry, fruits, flowers, etc.), although it need not be so expensive.
+*   **The Entrance:** The entrance to a Japanese home is slightly higher. Take off your shoes at the entrance and change into the slippers provided. 
+*   **Shoe etiquette:** Reverse the direction of the shoes you took off and align them together.
+
+### At the Room
+*   **Room styles:** The room you are shown into may be a Western-style room or a Japanese-style room covered with tatami. When entering a Japanese-style room, take off your slippers before entering.
+*   **Sitting:** You sit seiza-style on a floor cushion. If it is too difficult, you can ask: 
+    *   **あしを くずして いいですか。** (*Ashi o kuzushite ii desu ka.*) — May I change the position of my feet?
+    *   Then sit in a comfortable position.
+*   **Giving the present:** The present you brought is generally handed over at this time (not at the entrance or when you just met). When giving your present, say:
+    *   **ほんの きもちですが...** (*Honno kimochi desu ga...*) — Just a small token of my gratitude...
+
+---
+
 ## 💬 Practice Dialogues
 
 ### Dialogue 1: Putting the Doll Away
@@ -122,7 +157,8 @@
 ## 📝 Study Log & Additional Notes
 
 - **2026-11-06:** Started Katsudoo Lesson 8. Learned kanji 大 (big), 小 (small), 新 (new), 古 (old), and how to ask/say where to put things in a room.
-- **2026-11-07:** Continued Katsudoo Lesson 8. Learned vocabulary for household objects (box, doll, clock, etc.), location words (うえ, なか, した, よこ), and how to use どこですか and ～に おねがいします to ask and direct where to put things.
+- **2026-11-07:** Continued Katsudoo Lesson 8. Learned vocabulary for household objects, location words (うえ, なか, した, よこ), and how to use どこですか and ～に おねがいします.
+- **2026-11-09:** Learned polite expressions for visiting a home (ごめんください, おじゃまします) and cultural rules (bringing a present, removing shoes, sitting on tatami). Learned how to offer/accept tea and give presents.
 
 ---
 
@@ -140,3 +176,9 @@
 
 **Page 4 — Putting Things Away & Dialogues**
 ![Lesson 8 Notes Page 4](images/lesson-08-notes-4.jpg)
+
+**Page 5 — Visiting a Home & Entrance Culture**
+![Lesson 8 Notes Page 5](images/lesson-08-notes-5.jpg)
+
+**Page 6 — Serving Tea & Tatami Room Culture**
+![Lesson 8 Notes Page 6](images/lesson-08-notes-6.jpg)
