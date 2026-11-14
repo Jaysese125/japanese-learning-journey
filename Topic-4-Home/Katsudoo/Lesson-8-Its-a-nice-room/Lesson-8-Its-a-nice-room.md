@@ -56,6 +56,7 @@
 | とけい | *tokee* | clock |
 | たな | *tana* | shelf / rack |
 | ファイル | *fairu* | file |
+| スリッパ | *surippa* | slippers |
 
 ### Location Words
 **Structure:** `[Noun] の [Location]` (e.g., はこの うえ = on top of the box)
@@ -69,44 +70,57 @@
 
 ---
 
-## 🗣️ Key Phrases: Asking Where Things Are/Go
+## 🗣️ Key Phrases & Grammar
 
-### Interrogative: どこ (doko - where)
-*「どこですか」(doko desu ka) is used when asking for a location, or inquiring where to put a thing.*
+### Asking "What is this?"
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| これは なんですか。 | *Kore wa nan desu ka.* | What is this? |
+| かんこくの にんぎょうです。 | *Kankoku no ningyoo desu.* | It's a Korean doll. |
+| そうですか。きれいですね。 | *Soo desu ka. Kiree desu ne.* | I see. It's beautiful, isn't it. |
 
+### Particle の (Origin/Production)
+`(Country name) の (Noun)` indicates where the noun belonged or where it was produced.
+* ロシアの にんぎょう (*Roshia no ningyoo*) — Russian doll
+* エジプトの しゃしん (*Ejiputo no shashin*) — Picture of Egypt
+
+### Asking Where Things Are/Go
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
 | トイレは どこですか。 | *Toire wa doko desu ka.* | Where is the toilet? |
-| にんぎょうは どこですか。 | *Ningyoo wa doko desu ka.* | Where do I put the doll? |
-
-### Telling someone where to put something
-**Structure:** `[Location] に おねがいします` (Please put it in/on [Location])
-
-| Japanese | Romaji | English |
-| :--- | :--- | :--- |
+| あのう、トイレは どこですか。 | *Anoo, toire wa doko desu ka.* | Um, where is the toilet? |
+| こちらへ どうぞ。 | *Kochira e doozo.* | This way, please. |
 | はこの なかに おねがいします。 | *Hako no naka ni onegaishimasu.* | Inside the box, please. |
-| たなの うえに おねがいします。 | *Tana no ue ni onegaishimasu.* | On the shelf, please. |
+
+> **Note:** 「こちら (kochira - this way)」indicates the direction.
 
 ---
 
-## 🚪 Visiting a Friend's Home (いえを ほうもんします)
+## 🚪 Visiting a Friend's Home
 
-### Expressions When Visiting
+### Dialogue 1: Sara visits Kawasaki-sensei
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| Visitor | ごめんください。 | *Gomen kudasai.* | Excuse me. / Anybody home? / May I come in? |
-| Host | いらっしゃい。 | *Irasshai.* | How nice of you to come / Welcome / Come in. |
-| Host | どうぞ あがって ください。 | *Doozo agatte kudasai.* | Please come in. |
-| Visitor | おじゃまします。 | *Ojama shimasu.* | Excuse me. / May I come in? *(Used when going into a room. "Shitsuree shimasu" is also used.)* |
+| — | サラさんが かわさきせんせいの いえを ほうもんします。 | *Sara-san ga Kawasaki-sensee no ie o hoomon shimasu.* | Sara will visit Ms. Kawasaki's house. |
+| A (Kawasaki) | はい。 | *Hai.* | Yes? |
+| B (Sara) | こんにちは。サラです。 | *Konnichiwa. Sara desu.* | Hello, it's Sara. |
+| A (Kawasaki) | ああ、はーい。いらっしゃい。どうぞ あがって ください。 | *Aa, haai. Irasshai. Doozo agatte kudasai.* | Ah, hello! Welcome. Please come in. |
+| B (Sara) | おじゃまします。 | *Ojama shimasu.* | Thank you (for having me). |
 
-### Serving Tea & Remarks About the Room
+### Continuing Inside
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| Visitor | いい へやですね。 | *Ii heya desu ne.* | This is a great room. |
-| Host | おちゃ、どうぞ。 | *Ocha, doozo.* | Tea, please. |
-| Visitor | いただきます。 | *Itadakimasu.* | Thank you for the food/drink. |
-| Visitor | おいしいですね。 | *Oishii desu ne.* | It's delicious. |
-| — | ひろいですね。 | *Hiroi desu ne.* | It's roomy. |
+| A | この スリッパ、どうぞ。 | *Kono surippa, doozo.* | Here, use these slippers. |
+| B | ありがとうございます。 | *Arigatoo gozaimasu.* | Thank you very much. |
+| A | どうぞ。 | *Doozo.* | Please come through. |
+| B | わあ、きれいな いえですね。 | *Waa, kireena ie desu ne.* | Wow, what a lovely house! |
+
+### Dialogue 2: Visiting the Kimura Family
+| Speaker | Japanese | Romaji | English |
+| :--- | :--- | :--- | :--- |
+| — | きむらさんの いえに いきましょう。 | *Kimura-san no ie ni ikimashoo.* | Let's go to the Kimura family's house. |
+| A | はい、いらっしゃい。どうぞ あがって ください。 | *Hai, irasshai. Doozo agatte kudasai.* | Yes, welcome. Please come in. |
+| B | おじゃまします。 | *Ojama shimasu.* | Thank you (for having me). |
 
 ---
 
@@ -121,36 +135,13 @@
 *   **Room styles:** The room you are shown into may be a Western-style room or a Japanese-style room covered with tatami. When entering a Japanese-style room, take off your slippers before entering.
 *   **Sitting:** You sit seiza-style on a floor cushion. If it is too difficult, you can ask: 
     *   **あしを くずして いいですか。** (*Ashi o kuzushite ii desu ka.*) — May I change the position of my feet?
-    *   Then sit in a comfortable position.
-*   **Giving the present:** The present you brought is generally handed over at this time (not at the entrance or when you just met). When giving your present, say:
+*   **Giving the present:** The present you brought is generally handed over at this time. When giving it, say:
     *   **ほんの きもちですが...** (*Honno kimochi desu ga...*) — Just a small token of my gratitude...
 
----
-
-## 💬 Practice Dialogues
-
-### Dialogue 1: Putting the Doll Away
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| A | にんぎょうは どこですか。 | *Ningyoo wa doko desu ka.* | Where do I put the doll? |
-| B | はこの なかに おねがいします。 | *Hako no naka ni onegaishimasu.* | Inside the box, please. |
-| A | はこの なかですね。 | *Hako no naka desu ne.* | Inside the box, right? |
-
-### Dialogue 2: Kawasaki-sensei is putting things away
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| — | かわさきせんせいが かたづけを しています。 | *Kawasaki-sensei ga katadzuke o shite imasu.* | Mrs. Kawasaki is putting things away. |
-| A | かわさきせんせい、このファイルは どこですか。 | *Kawasaki-sensei, kono fairu wa doko desu ka.* | Ms. Kawasaki, where should I put this file? |
-| B | この たなの なかに おねがいします。 | *Kono tana no naka ni onegaishimasu.* | In these shelves please. |
-| A | ここですね。 | *Koko desu ne.* | Ah, just here? |
-
-### Dialogue 3: Asking Mai for help
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| — | まいさんに てつだって もらいましょう。 | *Mai-san ni tetsudatte moraimashoo.* | Ask Mai to help you. |
-| A | この カップは どこですか。 | *Kono kappu wa doko desu ka.* | Where does this cup go? |
-| B | たなの うえに おねがいします。 | *Tana no ue ni onegaishimasu.* | On the rack, please. |
-| A | はい。 | *Hai.* | Okay. |
+### Japanese Toilets
+*   Toilets in Japan are usually separate from the bath.
+*   Most of them are Western-style toilets, although there are some Japanese-style toilets.
+*   Moreover, there are toilets that spray warm water or warm air. If you do not know how to use it, it may be a good idea to ask first before going in.
 
 ---
 
@@ -158,7 +149,8 @@
 
 - **2026-11-06:** Started Katsudoo Lesson 8. Learned kanji 大 (big), 小 (small), 新 (new), 古 (old), and how to ask/say where to put things in a room.
 - **2026-11-07:** Continued Katsudoo Lesson 8. Learned vocabulary for household objects, location words (うえ, なか, した, よこ), and how to use どこですか and ～に おねがいします.
-- **2026-11-09:** Learned polite expressions for visiting a home (ごめんください, おじゃまします) and cultural rules (bringing a present, removing shoes, sitting on tatami). Learned how to offer/accept tea and give presents.
+- **2026-11-09:** Learned polite expressions for visiting a home (ごめんください, おじゃまします) and cultural rules (bringing a present, removing shoes, sitting on tatami).
+- **2026-11-14:** Learned how to ask "What is this?" (これは なんですか), the particle の for origin (e.g., ロシアの にんぎょう), how to offer slippers (スリッパ、どうぞ), and cultural notes about Japanese toilets.
 
 ---
 
@@ -182,3 +174,9 @@
 
 **Page 6 — Serving Tea & Tatami Room Culture**
 ![Lesson 8 Notes Page 6](images/lesson-08-notes-6.jpg)
+
+**Page 7 — What is this? & Particle の**
+![Lesson 8 Notes Page 7](images/lesson-08-notes-7.jpg)
+
+**Page 8 — Visiting Dialogues & Toilet Culture**
+![Lesson 8 Notes Page 8](images/lesson-08-notes-8.jpg)
