@@ -42,7 +42,7 @@
 
 ---
 
-## 📦 Vocabulary: Objects & Locations
+## 📦 Vocabulary: Objects, Rooms & Locations
 
 ### Objects
 | Japanese | Romaji | English |
@@ -57,6 +57,17 @@
 | たな | *tana* | shelf / rack |
 | ファイル | *fairu* | file |
 | スリッパ | *surippa* | slippers |
+
+### Rooms & Areas
+| Japanese | Romaji | English |
+| :--- | :--- | :--- |
+| だいどころ | *daidokoro* | kitchen |
+| おふろ | *ofuro* | bath / bathroom |
+| へや | *heya* | room |
+| トイレ | *toire* | toilet |
+| にわ | *niwa* | garden |
+| げんかん | *genkan* | entrance |
+| おしいれ | *oshiire* | closet |
 
 ### Location Words
 **Structure:** `[Noun] の [Location]` (e.g., はこの うえ = on top of the box)
@@ -84,15 +95,15 @@
 * ロシアの にんぎょう (*Roshia no ningyoo*) — Russian doll
 * エジプトの しゃしん (*Ejiputo no shashin*) — Picture of Egypt
 
-### Asking Where Things Are/Go
+### Showing Around the House
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
-| トイレは どこですか。 | *Toire wa doko desu ka.* | Where is the toilet? |
-| あのう、トイレは どこですか。 | *Anoo, toire wa doko desu ka.* | Um, where is the toilet? |
-| こちらへ どうぞ。 | *Kochira e doozo.* | This way, please. |
-| はこの なかに おねがいします。 | *Hako no naka ni onegaishimasu.* | Inside the box, please. |
+| ここは トイレです。 | *Koko wa toire desu.* | Here is the toilet. |
+| ここは だいどころです。 | *Koko wa daidokoro desu.* | This is the kitchen. |
+| ちょっと みますか。 | *Chotto mimasu ka.* | Would you like to take a look around? |
+| いえの なかを あんないします。 | *Ie no naka o annai shimasu.* | Show someone around your home. |
 
-> **Note:** 「こちら (kochira - this way)」indicates the direction.
+> **Note:** 「ここ (koko - here)」indicates the location.
 
 ---
 
@@ -101,26 +112,30 @@
 ### Dialogue 1: Sara visits Kawasaki-sensei
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| — | サラさんが かわさきせんせいの いえを ほうもんします。 | *Sara-san ga Kawasaki-sensee no ie o hoomon shimasu.* | Sara will visit Ms. Kawasaki's house. |
+| — | サラさんが かわさきせんせいの いえに あそびに きました。 | *Sara-san ga Kawasaki-sensee no ie ni asobi ni kimashita.* | Sara has come to see Ms. Kawasaki at her house. |
 | A (Kawasaki) | はい。 | *Hai.* | Yes? |
 | B (Sara) | こんにちは。サラです。 | *Konnichiwa. Sara desu.* | Hello, it's Sara. |
 | A (Kawasaki) | ああ、はーい。いらっしゃい。どうぞ あがって ください。 | *Aa, haai. Irasshai. Doozo agatte kudasai.* | Ah, hello! Welcome. Please come in. |
 | B (Sara) | おじゃまします。 | *Ojama shimasu.* | Thank you (for having me). |
+| A (Kawasaki) | この スリッパ、どうぞ。 | *Kono surippa, doozo.* | Here, use these slippers. |
+| B (Sara) | ありがとうございます。 | *Arigatoo gozaimasu.* | Thank you very much. |
+| A (Kawasaki) | どうぞ。 | *Doozo.* | Please come through. |
+| B (Sara) | わあ、ひろい いえですね。 | *Waa, hiroi ie desu ne.* | Wow, it's a big house, isn't it! |
+| A (Kawasaki) | ちょっと みますか。 | *Chotto mimasu ka.* | Would you like to take a look around? |
+| B (Sara) | はい。 | *Hai.* | Okay. |
+| A (Kawasaki) | ここは だいどころです。 | *Koko wa daidokoro desu.* | This is the kitchen. |
+|   | ここは トイレです。 | *Koko wa toire desu.* | This is the toilet. |
+|   | ここは おしいれです。 | *Koko wa oshiire desu.* | This is a closet. |
+| B (Sara) | へえー。 | *Hee.* | Oh! |
 
-### Continuing Inside
+### Dialogue 2: Touring the House with Mai & Taichi
 | Speaker | Japanese | Romaji | English |
 | :--- | :--- | :--- | :--- |
-| A | この スリッパ、どうぞ。 | *Kono surippa, doozo.* | Here, use these slippers. |
-| B | ありがとうございます。 | *Arigatoo gozaimasu.* | Thank you very much. |
-| A | どうぞ。 | *Doozo.* | Please come through. |
-| B | わあ、きれいな いえですね。 | *Waa, kireena ie desu ne.* | Wow, what a lovely house! |
-
-### Dialogue 2: Visiting the Kimura Family
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| — | きむらさんの いえに いきましょう。 | *Kimura-san no ie ni ikimashoo.* | Let's go to the Kimura family's house. |
-| A | はい、いらっしゃい。どうぞ あがって ください。 | *Hai, irasshai. Doozo agatte kudasai.* | Yes, welcome. Please come in. |
+| — | まいさん、たいちくんが あなたの いえに きました。へやを あんないしましょう。 | *Mai-san, Taichi-kun ga anata no ie ni kimashita. Heya o annai shimashoo.* | Mai and Taichi have come to visit your house. Let's show them around. |
+| A | いらっしゃい。どうぞ あがって ください。 | *Irasshai. Doozo agatte kudasai.* | Welcome. Please come in. |
 | B | おじゃまします。 | *Ojama shimasu.* | Thank you (for having me). |
+| A | いえを あんないしましょう。ここは トイレです。ここは おふろです。 | *Ie o annai shimashoo. Koko wa toire desu. Koko wa ofuro desu.* | Let's show them around. This is the toilet. This is the bath. |
+| B | きれいな へやですね。 | *Kireena heya desu ne.* | This is a really nice room, isn't it! |
 
 ---
 
@@ -148,9 +163,10 @@
 ## 📝 Study Log & Additional Notes
 
 - **2026-11-06:** Started Katsudoo Lesson 8. Learned kanji 大 (big), 小 (small), 新 (new), 古 (old), and how to ask/say where to put things in a room.
-- **2026-11-07:** Continued Katsudoo Lesson 8. Learned vocabulary for household objects, location words (うえ, なか, した, よこ), and how to use どこですか and ～に おねがいします.
-- **2026-11-09:** Learned polite expressions for visiting a home (ごめんください, おじゃまします) and cultural rules (bringing a present, removing shoes, sitting on tatami).
-- **2026-11-14:** Learned how to ask "What is this?" (これは なんですか), the particle の for origin (e.g., ロシアの にんぎょう), how to offer slippers (スリッパ、どうぞ), and cultural notes about Japanese toilets.
+- **2026-11-07:** Continued Katsudoo Lesson 8. Learned vocabulary for household objects, location words, and how to use どこですか and ～に おねがいします.
+- **2026-11-09:** Learned polite expressions for visiting a home (ごめんください, おじゃまします) and cultural rules (bringing a present, removing shoes).
+- **2026-11-14:** Learned how to ask "What is this?" (これは なんですか), the particle の for origin, and cultural notes about Japanese toilets.
+- **2026-11-16:** Learned how to show someone around the house (ここは ～です, あんないします), and practiced full house tour dialogues.
 
 ---
 
@@ -180,3 +196,9 @@
 
 **Page 8 — Visiting Dialogues & Toilet Culture**
 ![Lesson 8 Notes Page 8](images/lesson-08-notes-8.jpg)
+
+**Page 9 — Showing Around Vocab & Sara Dialogue**
+![Lesson 8 Notes Page 9](images/lesson-08-notes-9.jpg)
+
+**Page 10 — House Tour Dialogues**
+![Lesson 8 Notes Page 10](images/lesson-08-notes-10.jpg)
