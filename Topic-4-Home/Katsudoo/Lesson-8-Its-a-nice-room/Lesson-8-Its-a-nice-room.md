@@ -3,7 +3,7 @@
 **Course:** Marugoto A1-1 (Katsudoo & Rikai)
 **Topic:** Topic 4 — いえ (Ie - Home)
 **Mode:** かつどう (Katsudoo)
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -25,19 +25,15 @@
 ## ✍️ Kanji Practice
 
 ### 大 (ookii) — Big
-**Stroke order:** 一 → 丿 → 乀 → 大
 * よしださんの いえは 大きいです。 (*Yoshida-san no ie wa ookii desu.*) — Yoshida-san's house is big.
 
 ### 小 (chiisai) — Small
-**Stroke order:** 亅 → 八 → 小
 * わたしの へやは 小さいです。 (*Watashi no heya wa chiisai desu.*) — My room is small.
 
 ### 新 (atarashii) — New
-**Stroke order:** 立 → 木 → 斤 → 新
 * この ベッドは 新しいです。 (*Kono beddo wa atarashii desu.*) — This bed is new.
 
 ### 古 (furui) — Old
-**Stroke order:** 十 → 口 → 古
 * この にんぎょうは 古いです。 (*Kono ningyoo wa furui desu.*) — This doll is old.
 
 ---
@@ -64,13 +60,16 @@
 | だいどころ | *daidokoro* | kitchen |
 | おふろ | *ofuro* | bath / bathroom |
 | へや | *heya* | room |
+| こどもの へや | *kodomo no heya* | children's room |
+| ダイニング・キッチン | *dainingu-kicchin* | dining room / kitchen |
+| わしつ | *washitsu* | Japanese-style room |
 | トイレ | *toire* | toilet |
 | にわ | *niwa* | garden |
 | げんかん | *genkan* | entrance |
 | おしいれ | *oshiire* | closet |
 
 ### Location Words
-**Structure:** `[Noun] の [Location]` (e.g., はこの うえ = on top of the box)
+**Structure:** `[Noun] の [Location]`
 
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
@@ -88,85 +87,78 @@
 | :--- | :--- | :--- |
 | これは なんですか。 | *Kore wa nan desu ka.* | What is this? |
 | かんこくの にんぎょうです。 | *Kankoku no ningyoo desu.* | It's a Korean doll. |
-| そうですか。きれいですね。 | *Soo desu ka. Kiree desu ne.* | I see. It's beautiful, isn't it. |
 
 ### Particle の (Origin/Production)
 `(Country name) の (Noun)` indicates where the noun belonged or where it was produced.
 * ロシアの にんぎょう (*Roshia no ningyoo*) — Russian doll
-* エジプトの しゃしん (*Ejiputo no shashin*) — Picture of Egypt
 
 ### Showing Around the House
 | Japanese | Romaji | English |
 | :--- | :--- | :--- |
 | ここは トイレです。 | *Koko wa toire desu.* | Here is the toilet. |
-| ここは だいどころです。 | *Koko wa daidokoro desu.* | This is the kitchen. |
-| ちょっと みますか。 | *Chotto mimasu ka.* | Would you like to take a look around? |
 | いえの なかを あんないします。 | *Ie no naka o annai shimasu.* | Show someone around your home. |
-
-> **Note:** 「ここ (koko - here)」indicates the location.
+| ちょっと みますか。 | *Chotto mimasu ka.* | Would you like to take a look around? |
 
 ---
 
-## 🚪 Visiting a Friend's Home
+## 🗺️ Reading Japanese Addresses
 
-### Dialogue 1: Sara visits Kawasaki-sensei
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| — | サラさんが かわさきせんせいの いえに あそびに きました。 | *Sara-san ga Kawasaki-sensee no ie ni asobi ni kimashita.* | Sara has come to see Ms. Kawasaki at her house. |
-| A (Kawasaki) | はい。 | *Hai.* | Yes? |
-| B (Sara) | こんにちは。サラです。 | *Konnichiwa. Sara desu.* | Hello, it's Sara. |
-| A (Kawasaki) | ああ、はーい。いらっしゃい。どうぞ あがって ください。 | *Aa, haai. Irasshai. Doozo agatte kudasai.* | Ah, hello! Welcome. Please come in. |
-| B (Sara) | おじゃまします。 | *Ojama shimasu.* | Thank you (for having me). |
-| A (Kawasaki) | この スリッパ、どうぞ。 | *Kono surippa, doozo.* | Here, use these slippers. |
-| B (Sara) | ありがとうございます。 | *Arigatoo gozaimasu.* | Thank you very much. |
-| A (Kawasaki) | どうぞ。 | *Doozo.* | Please come through. |
-| B (Sara) | わあ、ひろい いえですね。 | *Waa, hiroi ie desu ne.* | Wow, it's a big house, isn't it! |
-| A (Kawasaki) | ちょっと みますか。 | *Chotto mimasu ka.* | Would you like to take a look around? |
-| B (Sara) | はい。 | *Hai.* | Okay. |
-| A (Kawasaki) | ここは だいどころです。 | *Koko wa daidokoro desu.* | This is the kitchen. |
-|   | ここは トイレです。 | *Koko wa toire desu.* | This is the toilet. |
-|   | ここは おしいれです。 | *Koko wa oshiire desu.* | This is a closet. |
-| B (Sara) | へえー。 | *Hee.* | Oh! |
+**Note:** まちで なまえや じゅうしょを よみます。 (*Recognize the name and the address on signs.*)
 
-### Dialogue 2: Touring the House with Mai & Taichi
-| Speaker | Japanese | Romaji | English |
-| :--- | :--- | :--- | :--- |
-| — | まいさん、たいちくんが あなたの いえに きました。へやを あんないしましょう。 | *Mai-san, Taichi-kun ga anata no ie ni kimashita. Heya o annai shimashoo.* | Mai and Taichi have come to visit your house. Let's show them around. |
-| A | いらっしゃい。どうぞ あがって ください。 | *Irasshai. Doozo agatte kudasai.* | Welcome. Please come in. |
-| B | おじゃまします。 | *Ojama shimasu.* | Thank you (for having me). |
-| A | いえを あんないしましょう。ここは トイレです。ここは おふろです。 | *Ie o annai shimashoo. Koko wa toire desu. Koko wa ofuro desu.* | Let's show them around. This is the toilet. This is the bath. |
-| B | きれいな へやですね。 | *Kireena heya desu ne.* | This is a really nice room, isn't it! |
+### Prefecture Suffixes
+| Kanji | Reading | Example |
+| :--- | :--- | :--- |
+| 都 | と (*to*) | とうきょうと (*Tookyoo-to*) |
+| 道 | どう (*dou*) | ほっかいどう (*Hokkaidoo*) |
+| 府 | ふ (*fu*) | きょうとふ (*Kyooto-fu*), おおさかふ (*Oosaka-fu*) |
+| 県 | けん (*ken*) | ひろしまけん (*Hiroshima-ken*), おきなわけん (*Okinawa-ken*) |
+
+### City/Ward/Town/Village Suffixes
+| Kanji | Reading | Meaning |
+| :--- | :--- | :--- |
+| 市 | し (*shi*) | City |
+| 区 | く (*ku*) | Ward |
+| 町 | まち / ちょう (*machi / chou*) | Town |
+| 村 | むら (*mura*) | Village |
+
+### Block Numbers
+* 1丁目 (*1-choume*)
+* 3番地 (*3-banchi*)
+
+**Example Address:** 
+とうきょうと しんじゅくく よつや 4-ちょうめ 1-ばんち 
+(*Tookyoo-to Shinjuku-ku Yotsuya 4-choume 1-banchi*)
 
 ---
 
 ## 🇯🇵 Culture Notes
 
-### When You Are Invited to a Japanese Person's Home
-*   **Bring a present:** You better bring some present (pastry, fruits, flowers, etc.), although it need not be so expensive.
-*   **The Entrance:** The entrance to a Japanese home is slightly higher. Take off your shoes at the entrance and change into the slippers provided. 
-*   **Shoe etiquette:** Reverse the direction of the shoes you took off and align them together.
+### Japanese Homes & Customs
+*   **Visiting:** You better bring a present (pastry, fruits, flowers, etc.). Take off your shoes at the entrance and change into the slippers provided. Reverse the direction of the shoes you took off and align them together.
+*   **Room styles:** When entering a Japanese-style room (わしつ), take off your slippers before entering. Sit seiza-style on a floor cushion. If it is too difficult, you can ask: 「あしを くずして いいですか。」 (*Ashi o kuzushite ii desu ka.*)
+*   **Giving the present:** Say 「ほんの きもちですが...」 (*Honno kimochi desu ga...* - Just a small token of my gratitude).
+*   **The way one's house faces:** In Japan, south-facing houses are popular as many people like rooms that catch plenty of sunlight. Prices are high, too.
+*   **Where you take off your shoes:** The floor in a Japanese house is usually slightly higher than the entrance. This happens in a ryokan too. Also, shoes must be removed where you see a 土足厳禁 (*dosokukin* - "shoes strictly prohibited") sign.
 
-### At the Room
-*   **Room styles:** The room you are shown into may be a Western-style room or a Japanese-style room covered with tatami. When entering a Japanese-style room, take off your slippers before entering.
-*   **Sitting:** You sit seiza-style on a floor cushion. If it is too difficult, you can ask: 
-    *   **あしを くずして いいですか。** (*Ashi o kuzushite ii desu ka.*) — May I change the position of my feet?
-*   **Giving the present:** The present you brought is generally handed over at this time. When giving it, say:
-    *   **ほんの きもちですが...** (*Honno kimochi desu ga...*) — Just a small token of my gratitude...
+### Tatami Mats and Chairs
+*   In the past, people used to sit on tatami mats to eat at mealtimes. Following the westernization of Japanese life, many people now sit at chairs. 
+*   Some people use floor cushions called **zabuton**, or legless chairs called **zaisu** when sitting on tatami.
 
-### Japanese Toilets
-*   Toilets in Japan are usually separate from the bath.
-*   Most of them are Western-style toilets, although there are some Japanese-style toilets.
-*   Moreover, there are toilets that spray warm water or warm air. If you do not know how to use it, it may be a good idea to ask first before going in.
+### Things Often Found in the Home
+*   **Washlets:** More than 70% of households in Japan have an electric 'washlet' toilet seat (2011 Consumer Confidence Survey). Some models enable automatic opening and closing of the toilet lid and flushing.
+*   **Rice cookers:** Commonly found in the kitchen, a necessity used to prepare Japan's staple food.
+*   **Paper doors:** Some **shoji** (paper doors) are used in Japanese rooms where you can see outside at the bottom. These are called **yukimi-shoji**, and are for seeing snow falling in the garden.
 
 ---
 
 ## 📝 Study Log & Additional Notes
 
-- **2026-11-06:** Started Katsudoo Lesson 8. Learned kanji 大 (big), 小 (small), 新 (new), 古 (old), and how to ask/say where to put things in a room.
-- **2026-11-07:** Continued Katsudoo Lesson 8. Learned vocabulary for household objects, location words, and how to use どこですか and ～に おねがいします.
-- **2026-11-09:** Learned polite expressions for visiting a home (ごめんください, おじゃまします) and cultural rules (bringing a present, removing shoes).
-- **2026-11-14:** Learned how to ask "What is this?" (これは なんですか), the particle の for origin, and cultural notes about Japanese toilets.
-- **2026-11-16:** Learned how to show someone around the house (ここは ～です, あんないします), and practiced full house tour dialogues.
+- **2026-11-06:** Started Katsudoo Lesson 8. Learned kanji 大, 小, 新, 古, and how to ask/say where to put things.
+- **2026-11-07:** Learned vocabulary for objects, location words, and how to use どこですか and ～に おねがいします.
+- **2026-11-09:** Learned polite expressions for visiting a home and cultural rules (removing shoes, bringing a present).
+- **2026-11-14:** Learned これは なんですか, particle の for origin, and cultural notes about Japanese toilets.
+- **2026-11-16:** Learned how to show someone around the house (ここは ～です) and practiced house tour dialogues.
+- **2026-11-18:** Completed Katsudoo Lesson 8. Learned how to read Japanese addresses (都道府県, 市町村) and cultural facts about tatami, washlets, and yukimi-shoji.
 
 ---
 
@@ -202,3 +194,9 @@
 
 **Page 10 — House Tour Dialogues**
 ![Lesson 8 Notes Page 10](images/lesson-08-notes-10.jpg)
+
+**Page 11 — Addresses & House Facing**
+![Lesson 8 Notes Page 11](images/lesson-08-notes-11.jpg)
+
+**Page 12 — Tatami, Washlets, & Shoji**
+![Lesson 8 Notes Page 12](images/lesson-08-notes-12.jpg)
