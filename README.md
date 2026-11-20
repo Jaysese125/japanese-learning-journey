@@ -39,7 +39,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Primary Curriculum** | [JF e-Learning Minato](https://minato-jf.jp/) — *Marugoto A1-1 (Katsudoo & Rikai)* |
 | **Target Level** | CEFR **A1** → **JLPT N5** |
 | **Learning Method** | Structured online modules + handwritten retention + Markdown archiving |
-| **Current Status** | 🟢 **Active** — *Topic 4, Katsudoo Lesson 8 Complete* |
+| **Current Status** | 🟢 **Active** — *Topic 4, Rikai Lesson 8* |
 | **Started** | 2026 |
 
 ---
@@ -59,7 +59,8 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
         │   ├── Lesson-7-There-are-three-rooms-in-my-home/
         │   └── Lesson-8-Its-a-nice-room/
         └── Rikai/
-            └── Lesson-7-There-are-three-rooms-in-my-home/
+            ├── Lesson-7-There-are-three-rooms-in-my-home/
+            └── Lesson-8-Its-a-nice-room/
 
 **Conventions:**
 - One folder per curriculum module (`Topic-X-...`).
@@ -90,15 +91,17 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | **Topic 4** — いえ | Katsudoo Lesson 7: いえに なにが ありますか | House types, home objects, adjectives, counting items, email writing | ✅ |
 | **Topic 4** — いえ | Rikai Lesson 7: いえに なにが ありますか | Furniture/appliances, opposites, existence verbs (あります/います), letters | ✅ |
 | **Topic 4** — いえ | Katsudoo Lesson 8: いいへやですね | Kanji 大, 小, 新, 古; welcoming a guest, location words, addresses, culture | ✅ |
+| **Topic 4** — いえ | Rikai Lesson 8: いいへやですね | Furniture/objects vocabulary, describing where things are located | 🚧 |
 
 > Legend: ✅ Completed &nbsp;•&nbsp; 🚧 In Progress &nbsp;•&nbsp; ⏳ Planned
 
 <!-- 
   ========================================================================
-  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL YOU START RIKAI LESSON 8):
-  1. Add a new row when you start the next lesson.
-  2. Update the "Progress Log" at the bottom of this file.
-  3. Update the "Current Status" in the Executive Summary above.
+  🛑 NEXT UPDATE INSTRUCTIONS (DO NOT TOUCH UNTIL RIKAI LESSON 8 IS FINISHED):
+  1. Change the 🚧 in the table above to ✅.
+  2. Add a new row when you start the next lesson.
+  3. Update the "Progress Log" at the bottom of this file.
+  4. Update the "Current Status" in the Executive Summary above.
   ========================================================================
 -->
 
@@ -168,6 +171,7 @@ The goal isn't just to learn a language — it's to **build a repeatable, audita
 | 2026-10-29 | **Katsudoo Lesson 7 completed.** **Rikai Lesson 7 started:** Learning furniture/appliances, opposites, and existence verbs. |
 | 2026-11-06 | **Rikai Lesson 7 completed.** Learned letters. **Katsudoo Lesson 8 started:** Learning kanji 大, 小, 新, 古 and welcoming guests. |
 | 2026-11-18 | **Katsudoo Lesson 8 completed.** Learned house tours, addresses, and deep cultural notes. |
+| 2026-11-20 | **Rikai Lesson 8 started:** Learning furniture/objects vocabulary and how to describe where things are. |
 
 > See [commit history](../../commits/main) for the full audit trail.
 
